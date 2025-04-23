@@ -1,3 +1,10 @@
+# Things to study daily
+- Data Structures and Algorithms
+- Kaggle (ML)
+- Linux (OverTheWire)
+- C++ 
+- Leetcode
+
 # Core IT 
 - [ ] Introduction to Computers and Computer Applications
     - [How Computers Work](https://edu.gcfglobal.org/en/computerbasics/)
@@ -38,3 +45,5 @@
 # Embedded Systems
 
 # Operating Systems
+
+# Communities/Blogs 
