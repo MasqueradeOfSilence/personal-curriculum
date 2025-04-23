@@ -29,6 +29,10 @@
 
 # Computer Graphics
 
+# Game Development
+
+# UI/UX
+
 # Machine Learning
 
 # Embedded Systems
