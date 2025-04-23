@@ -23,3 +23,5 @@ If you love learning, hopefully you will benefit from this aggregation.
 ## General Principles to Follow
 - Study daily for at least 2 minutes per topic according to the same general sequence and schedule (atomic habits).
 - Studying should be an automatic reflex, not something that you have to consciously think about on a regular basis. Decision fatigue must be avoided at all costs. 
+- Nobody likes doing daily life maintenance -- it's boring. Use [stable mucking to attack mosquito tasks](https://calnewport.com/the-stable-mucking-method-a-freestyle-approach-to-keeping-the-annoying-little-stuff-under-control/). 
+- Rest is a biological imperative and does not need to be earned. 
