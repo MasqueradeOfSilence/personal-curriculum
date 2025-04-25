@@ -39,7 +39,7 @@
 
 # Computer Graphics
 
-# Game Development
+# Game Design and Development
 
 # UI/UX
 
@@ -49,4 +49,4 @@
 
 # Operating Systems
 
-# Communities/Blogs 
+# Communities/Blogs/YouTube 
