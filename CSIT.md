@@ -19,6 +19,7 @@
     - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
     - [CompTIA ITF+ Training Course](https://www.youtube.com/playlist?list=PLc6zqGSJMvCSQ3djLlfS_2LnliS-Q-FKV)
     - [ITF+ Study Guide by Quentin Docter](https://www.goodreads.com/book/show/41447230-comptia-it-fundamentals-itf-study-guide)
+    - [ITF+ Study Guide](https://www.amazon.com/CompTIA-Fundamentals-Guide-Second-FC0-U61/dp/1260441873/ref=bmx_dp_t2bb04an_d_sccl_2_2/144-6091275-2237151?pd_rd_w=iO4eq&content-id=amzn1.sym.43dd9979-c547-4d63-9aca-cb4cebe845a6&pf_rd_p=43dd9979-c547-4d63-9aca-cb4cebe845a6&pf_rd_r=Y8RFP9FCYZPSKFKE1SVR&pd_rd_wg=9jYyx&pd_rd_r=e2459b7a-726a-443e-beae-666cf80b34d7&pd_rd_i=1260441873&psc=1)
 - [ ] Web Design
     - [HTML and CSS Guide: The Cave of Dragonflies](https://www.dragonflycave.com/html-guide)
 - [ ] Computer Hardware 1
@@ -29,7 +30,8 @@
     - [A+ Course Part 1 (Jason Dion)](https://www.udemy.com/course/comptia-a-core-1/?srsltid=AfmBOooV8rOWA4bHzsLIuEBhcTwZJkttpyemEPtIbUp8vIbfRKtSKpic&couponCode=ST8MT220425G3)
     - [A+ Course Part 2 (Jason Dion)](https://www.udemy.com/course/comptia-aplus-core-2/)
 - [ ] Computer Networking 1
-    - [Net+ Exam Guide Book](https://www.amazon.com/CompTIA-Network-Certification-N10-008-Comptia/dp/1264269056/ref=pd_lpo_d_sccl_1/130-3324021-9380509?pd_rd_w=jEYPG&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=4TK1YMTNVSH3EW8AKKD1&pd_rd_wg=2z6yh&pd_rd_r=6e40bbad-dd83-4eab-97f9-916c8c0b6494&pd_rd_i=1264269056&psc=1)
+    - [Professor Messer Net+](https://www.professormesser.com/get-n10-009-network-plus-certified/)
+    - [Net+ Book](https://www.amazon.com/CompTIA-Network-Certification-N10-008-Comptia/dp/1264269056/ref=pd_lpo_d_sccl_2/144-6091275-2237151?pd_rd_w=E7rBv&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=0BZDDJKK87ZGAD8GK8VA&pd_rd_wg=1R1Bj&pd_rd_r=2a8efe9e-30ff-4031-b405-d217c5cd33ec&pd_rd_i=1264269056&psc=1) 
 - [ ] Computer Security 1
 - [ ] IT Field Tech Work
 - [ ] Mac Support
