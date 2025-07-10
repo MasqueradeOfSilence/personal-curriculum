@@ -42,6 +42,8 @@
 # Cybersecurity
 
 # Computer Graphics
+- [ ] Rigging
+    - [Rigging for Games](https://www.amazon.com/Rigging-Games-Primer-Technical-Artists/dp/0415743044)
 
 # Game Design and Development
 
