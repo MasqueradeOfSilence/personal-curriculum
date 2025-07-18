@@ -30,10 +30,15 @@
     - [A+ Course Part 1 (Jason Dion)](https://www.udemy.com/course/comptia-a-core-1/?srsltid=AfmBOooV8rOWA4bHzsLIuEBhcTwZJkttpyemEPtIbUp8vIbfRKtSKpic&couponCode=ST8MT220425G3)
     - [A+ Course Part 2 (Jason Dion)](https://www.udemy.com/course/comptia-aplus-core-2/)
 - [ ] Computer Networking 1
-    - 
+    - [CompTIA Network+](https://www.comptia.org/en-us/certifications/network/)
     - [Professor Messer Net+](https://www.professormesser.com/get-n10-009-network-plus-certified/)
-    - [Net+ Book](https://www.amazon.com/CompTIA-Network-Certification-N10-008-Comptia/dp/1264269056/ref=pd_lpo_d_sccl_2/144-6091275-2237151?pd_rd_w=E7rBv&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=0BZDDJKK87ZGAD8GK8VA&pd_rd_wg=1R1Bj&pd_rd_r=2a8efe9e-30ff-4031-b405-d217c5cd33ec&pd_rd_i=1264269056&psc=1) 
+    - [Net+ Exam Guide Book](https://www.amazon.com/CompTIA-Network-Certification-N10-008-Comptia/dp/1264269056/ref=pd_lpo_d_sccl_2/144-6091275-2237151?pd_rd_w=E7rBv&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=0BZDDJKK87ZGAD8GK8VA&pd_rd_wg=1R1Bj&pd_rd_r=2a8efe9e-30ff-4031-b405-d217c5cd33ec&pd_rd_i=1264269056&psc=1) 
+    - [Network+ Course (Jason Dion)](https://www.udemy.com/course/comptia-network-009/?srsltid=AfmBOoqvAmNyuhUVrjcJ_mn7Z1mKcnFL8u1AIjtC4rDaw1AqJ_ANkYzb&couponCode=MT150725G1)
 - [ ] Computer Security 1
+    - [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/)
+    - [Professor Messer Sec+](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
+    - [Sec+ Exam Guide Book](https://www.amazon.com/CompTIA-Security-Certification-Guide-SY0-601/dp/1260464008/ref=asc_df_1260464008?mcid=2e9d55c3478a34238612f753586fc2a6&hvocijid=13053076414429187766-1260464008-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13053076414429187766&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029717&hvtargid=pla-2281435179298&psc=1)
+    - [Security+ Course (Jason Dion)](https://www.udemy.com/course/securityplus/?srsltid=AfmBOoqoQ6kXjqC7GJmnHsrQIrOE9fkIK-ouWCeppLy5I_8qAPsWz4fV&couponCode=MT150725G1)
 - [ ] IT Field Tech Work
 - [ ] Mac Support
 
