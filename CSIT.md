@@ -40,7 +40,10 @@
     - [Sec+ Exam Guide Book](https://www.amazon.com/CompTIA-Security-Certification-Guide-SY0-601/dp/1260464008/ref=asc_df_1260464008?mcid=2e9d55c3478a34238612f753586fc2a6&hvocijid=13053076414429187766-1260464008-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13053076414429187766&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029717&hvtargid=pla-2281435179298&psc=1)
     - [Security+ Course (Jason Dion)](https://www.udemy.com/course/securityplus/?srsltid=AfmBOoqoQ6kXjqC7GJmnHsrQIrOE9fkIK-ouWCeppLy5I_8qAPsWz4fV&couponCode=MT150725G1)
 - [ ] IT Field Tech Work
+    - [Field Tech Academy](https://www.youtube.com/@fieldtechacademy/videos)
+    - [BISCI Learning](https://www.bicsi.org/education-certification/education-@-bicsi-learning-academy)
 - [ ] Mac Support
+    - [Apple IT Training](https://training.apple.com/it)
 
 # Core Computer Science 
 
