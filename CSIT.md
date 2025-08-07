@@ -46,6 +46,16 @@
     - [Apple IT Training](https://training.apple.com/it)
 
 # Core Computer Science 
+- [ ] Introduction to Programming
+    - [Learn Python The Hard Way](https://learnpythonthehardway.org/)
+    - [Learn C The Hard Way](https://learncodethehardway.org/c/)
+    - [Structure and Interpretation of Computer Programs](https://teachyourselfcs.com/#programming)
+- [ ] Data Structures and Algorithms
+    - [UCSD: Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
+- [ ] Mathematics for Computer Science
+    - [Teach Yourself CS: Math](https://teachyourselfcs.com/#math)
+    - [UCSD: Discrete Mathematics](https://www.coursera.org/specializations/discrete-mathematics)
+    - [Stanford: Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
 
 # Cybersecurity
 
