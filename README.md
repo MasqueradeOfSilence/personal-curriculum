@@ -23,6 +23,7 @@ If you love learning, hopefully you will benefit from this aggregation.
 
 ## General Principles to Follow
 - Study daily for at least 2 minutes per topic according to the same general sequence and schedule (atomic habits).
+- However, ideally study and practice should be 30-75 minutes. In practice, I don't find real life has much more than that in terms of consecutive empty space in a schedule. 
 - Studying should be an automatic reflex, not something that you have to consciously think about on a regular basis. Decision fatigue must be avoided at all costs. 
 - Nobody likes doing daily life maintenance or one-off todos -- they're boring and get in the way of long-term goals. Use [stable mucking to attack mosquito tasks](https://calnewport.com/the-stable-mucking-method-a-freestyle-approach-to-keeping-the-annoying-little-stuff-under-control/). 
 - Rest is a biological imperative and does not need to be earned. 

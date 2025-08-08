@@ -56,6 +56,11 @@
     - [Teach Yourself CS: Math](https://teachyourselfcs.com/#math)
     - [UCSD: Discrete Mathematics](https://www.coursera.org/specializations/discrete-mathematics)
     - [Stanford: Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+- [ ] Computer Systems
+    - [Nand2Tetris](https://www.nand2tetris.org/)
+    - [Computer Systems: A Programmer's Perspective](https://teachyourselfcs.com/#architecture)
+- [ ] Software Engineering / Mobile Intro
+    - [IBM Mobile Application Development](https://www.coursera.org/professional-certificates/ibm-ios-android-mobile-app-developer-pc)
 
 # Cybersecurity
 
@@ -73,4 +78,12 @@
 
 # Operating Systems
 
+# Math
+
+# Physics
+
 # Communities/Blogs/YouTube 
+
+# Notes (will delete)
+- IBM certs: full stack, mobile application development, AI developer, data engineering, mainframe, devops
+- don't forget cloud
