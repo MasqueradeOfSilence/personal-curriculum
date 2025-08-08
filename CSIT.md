@@ -85,5 +85,5 @@
 # Communities/Blogs/YouTube 
 
 # Notes (will delete)
-- IBM certs: full stack, mobile application development, AI developer, data engineering, mainframe, devops
+- IBM certs: full stack, mobile application development, AI developer, data engineering, mainframe, devops, java
 - don't forget cloud
