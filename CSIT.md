@@ -63,7 +63,7 @@
 - [ ] Computational Theory
     - [The Complete Theory of Computation](https://www.udemy.com/course/the-complete-theory-of-computation/?srsltid=AfmBOoqGKthwo79YaHlwhEL6Uig3DcM2RcEszNL5DSgt05KccYQncyO0&couponCode=PMNVD1525)
     - Skipping computational theory is for chumps.
-- [ ] Web Development
+- [ ] Web Design and Development
     - [HTML and CSS Guide: The Cave of Dragonflies](https://www.dragonflycave.com/html-guide)
     - [W3Schools](https://www.w3schools.com/where_to_start.asp)
     - [The Odin Project](https://www.theodinproject.com/)
