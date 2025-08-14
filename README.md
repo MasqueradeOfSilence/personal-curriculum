@@ -9,7 +9,7 @@ If you love learning, hopefully you will benefit from this aggregation.
 
 ## Topics
 - [Computer Science, Engineering, Math/Physics, and IT](CSIT.md)
-- Digital Art
+- [Digital Art](ART.md)
 - Creative Writing
 - Paleontology
 - Music

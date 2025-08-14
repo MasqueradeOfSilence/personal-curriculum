@@ -117,6 +117,8 @@
     - [AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer)
 - [ ] Bioinformatics
     - [Bioinformatics Honors](https://www.coursera.org/specializations/bioinformatics)
+- [ ] Quantum Computing
+    - [IBM Quantum Platform](https://quantum.cloud.ibm.com/learning/en)
 
 # Cybersecurity
 - [ ] Intro Cyber
@@ -148,10 +150,14 @@
     - [Scratchapixel](https://www.scratchapixel.com/)
     - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
     - [Graphics CodeX](https://graphicscodex.com/)
+- [ ] Real-Time Rendering
     - [Real-Time Rendering](https://www.realtimerendering.com/)
+    - [Real-Time Rendering: Computer Graphics with Control Engineering](https://www.amazon.com/Real-Time-Rendering-Computer-Engineering-Automation/dp/1466583592)
 - [ ] Shaders
     - [Intro](https://code.tutsplus.com/a-beginners-guide-to-coding-graphics-shaders--cms-23313t)
     - [Book of Shaders](https://thebookofshaders.com/)
+- [ ] Scripting for Animation
+    - [Scripting for Animation: Zurbigg](https://zurbrigg.com/courses)
 - [ ] Image Processing and Computer Vision
     - [Image Processing](https://www.cl72.org/090imagePLib/books/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf)
     - [Computer Vision](https://www.coursera.org/professional-certificates/mathworks-computer-vision-engineer)
@@ -174,12 +180,15 @@
 # Game Design and Development
 - [ ] Intro to Game Design
     - [How to make a Video Game in Unity (Brackeys)](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
+    - [Game Design](https://www.coursera.org/professional-certificates/epic-games-game-design-professional-certificate)
 - [ ] Game Design Art
     - [Art and Concepts](https://www.coursera.org/specializations/game-design)
 - [ ] Game Music
     - [Intro](https://ruoyusun.com/2017/08/29/make-some-music.html)
 - [ ] Game Engines
     - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
+- [ ] Quaternions
+    - [Udemy](https://www.udemy.com/course/quaternions/?srsltid=AfmBOop4vkKpN6aQaBeCotRclIotbtsCbWQ6Z3oqehZBD4Z6iECX7ygr)
 
 # UI/UX
 - [ ] Graphic Design
@@ -209,6 +218,10 @@
 - [ ] PLCs 
     - [PLC Dojo](https://www.plcdojo.com/)
     - [Inductive University](https://inductiveuniversity.com/)
+- [ ] Control Systems
+    - [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+    - [PID Controllers in Unity](https://www.youtube.com/watch?v=y3K6FUgrgXw)
+    - [Control Theory Fundamentals](https://drive.google.com/file/d/1LAjaDDViFG4H7dQ6PQVHo8XSQHS59GJf/view)
 - [ ] Robotics
     - [Modern Robotics](https://www.coursera.org/specializations/modernrobotics)
 - [ ] Engineering Graphics
@@ -218,6 +231,7 @@
 - [ ] Theme Park Design
     - [Intro TPED](https://www.udemy.com/course/theme-park-design/?srsltid=AfmBOookHgmGQXz9jSN6CvyHd1-PunwJhuOPAbQjTvzoezOJ8uFRkGBs)
     - [Imagineering](https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box)
+    - [The Art](https://www.amazon.com/Theme-Park-Design-Themed-Entertainment/dp/0993578918)
     - [Coasters 101](https://www.amazon.com/Coasters-101-Engineers-Roller-Coaster/dp/1468013556)
     - [Management](https://www.edx.org/masters/micromasters/hkpolyux-international-hospitality-management)
 
@@ -227,6 +241,8 @@
 - [ ] The Rest of Math (Calc 1-3, Linear Algebra, Discrete Math/Proofs, DiffEq)
     - [Susan Rigetti: Math](https://www.susanrigetti.com/math)
     - [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers)
+- [ ] Statistics
+    - [Intro to Statistics](https://www.coursera.org/learn/stanford-statistics)
 - [ ] MATLAB 
     - [MATLAB Programming](https://www.coursera.org/specializations/matlab-programming-engineers-scientists)
 
