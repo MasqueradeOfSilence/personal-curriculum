@@ -84,5 +84,6 @@
 - [ ] [3D Animation](https://www.youtube.com/playlist?list=PLPcgvO78EcAot0aVyu5TQTbzBAwtx-oZK)
 - [ ] [VR](https://www.coursera.org/specializations/virtual-reality)
 - [ ] [AR](https://www.coursera.org/learn/ar)
+- [ ] [RenderMan](https://renderman.pixar.com/learn)
 - [ ] [Game Design: Listed in CSIT page](CSIT.md)
 - [ ] [Imagineering: Listed in CSIT page](CSIT.md)
