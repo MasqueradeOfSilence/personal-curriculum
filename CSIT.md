@@ -132,6 +132,9 @@
     - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
     - [Graphics CodeX](https://graphicscodex.com/)
     - [Real-Time Rendering](https://www.realtimerendering.com/)
+- [ ] Shaders
+    - [Intro](https://code.tutsplus.com/a-beginners-guide-to-coding-graphics-shaders--cms-23313t)
+    - [Book of Shaders](https://thebookofshaders.com/)
 - [ ] Image Processing and Computer Vision
     - [Computer Vision](https://www.coursera.org/professional-certificates/mathworks-computer-vision-engineer)
 - [ ] Video Streaming
@@ -144,6 +147,10 @@
 - [ ] Simulation
     - [Simulation and Modeling of Natural Processes](https://www.coursera.org/learn/modeling-simulation-natural-processes)
     - [Fluid Simulation for Computer Graphics](https://api.pageplace.de/preview/DT0400.9781482232844_A35196471/preview-9781482232844_A35196471.pdf)
+- [ ] GPUs
+    - [GPU Programming](https://www.coursera.org/specializations/gpu-programming/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_gpu-programming_jhu_ftcof_specializations_px_dr_bau_gg_sem_pr_us-ca_en_m_hyb_24-11_x&campaignid=21876399000&adgroupid=168462627045&device=c&keyword=graphics%20processing%20unit&matchtype=b&network=g&devicemodel=&creativeid=720221719408&assetgroupid=&targetid=kwd-298851134543&extensionid=&placement=&gad_source=1&gad_campaignid=21876399000&gbraid=0AAAAADdKX6b3DscT9E-llwQvhqCrTeyKp&gclid=CjwKCAjwkvbEBhApEiwAKUz6-1-qGP8mfH7weB5BKyzRnB8woNDBQ6Xml8UbFpe6dr3n611dP3Q-uhoC7eQQAvD_BwE)
+- [ ] OpenUSD
+    - [Book of USD](https://remedy-entertainment.github.io/USDBook/)
 
 # Game Design and Development
 - [ ] Intro to Game Design
