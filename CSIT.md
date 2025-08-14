@@ -190,12 +190,12 @@
     - [Google UX](https://www.coursera.org/professional-certificates/google-ux-design)
 
 # Embedded Systems, Engineering, and Robotics
-- [ ] General and Intro Engineering
-    - [Intro EE](https://www.edx.org/learn/engineering/institute-of-science-tokyo-introduction-to-electrical-and-electronic-engineering-dian-qi-dian-zi-gong-xue-ru-men)
+- [ ] General Engineering
     - [OpGuides: Engineering](https://opguides.info/)
-    - [Step by Step Electrical Engineering](https://www.amazon.com/Step-Step-Electrical-Engineering-Enthusiasts/dp/B0DJD31ZZX)
 - [ ] Electrical Engineering
-    - [Khan](https://www.khanacademy.org/science/electrical-engineering)
+    - [Intro EE](https://www.edx.org/learn/engineering/institute-of-science-tokyo-introduction-to-electrical-and-electronic-engineering-dian-qi-dian-zi-gong-xue-ru-men)
+    - [Step by Step Electrical Engineering](https://www.amazon.com/Step-Step-Electrical-Engineering-Enthusiasts/dp/B0DJD31ZZX)
+    - [Khan: EE](https://www.khanacademy.org/science/electrical-engineering)
     - [OSEE](https://github.com/Artoriuz/OSEE)
     - [NandLand](https://nandland.com/)
 - [ ] Mechanical Engineering
