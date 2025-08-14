@@ -127,7 +127,10 @@
 - [Linux Basics for Hackers](https://kea.nu/files/textbooks/humblesec/linuxbasicsforhackers.pdf)
 
 # Computer Graphics
-- [ ] Computer Graphics
+- [ ] 2D Computer Graphics
+    - [Brushstroke Algorithms](https://jcgt.org/published/0007/01/01/paper.pdf)
+    - [Non-Photorealistic Rendering](https://www.amazon.ca/Non-Photorealistic-Rendering-Bruce-Gooch/dp/1568811330)
+- [ ] 3D Computer Graphics
     - [Scratchapixel](https://www.scratchapixel.com/)
     - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
     - [Graphics CodeX](https://graphicscodex.com/)
@@ -136,6 +139,7 @@
     - [Intro](https://code.tutsplus.com/a-beginners-guide-to-coding-graphics-shaders--cms-23313t)
     - [Book of Shaders](https://thebookofshaders.com/)
 - [ ] Image Processing and Computer Vision
+    - [Image Processing](https://www.cl72.org/090imagePLib/books/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf)
     - [Computer Vision](https://www.coursera.org/professional-certificates/mathworks-computer-vision-engineer)
 - [ ] Video Streaming
     - [Learning FFmpeg](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
