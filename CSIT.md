@@ -188,6 +188,7 @@
     - [Art and Concepts](https://www.coursera.org/specializations/game-design)
 - [ ] Game Music
     - [Intro](https://ruoyusun.com/2017/08/29/make-some-music.html)
+    - [In-Depth](https://www.udemy.com/course/gamemusiccourse)
 - [ ] Game Engines
     - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
 - [ ] Quaternions
