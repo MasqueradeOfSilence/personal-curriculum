@@ -1,4 +1,5 @@
 # Warm-up Tools and Sequence
+
 - Browse Art (Cara, Inkblot, Patreon)
 - [Inkwell App](https://www.inkwell.studio/)
 - [Drawabox](https://drawabox.com/)
@@ -8,6 +9,7 @@
 - Follow 50% rule for learning/projects
 
 # Challenges and Tutorials to do
+
 - [Loish monthly challenges (must subscribe to Patreon)](https://loish.net/)
 - [Sakuga](https://www.youtube.com/@SakugaFoundry)
 - [Art Fight, July](https://artfight.net/)
@@ -15,6 +17,7 @@
 - [Monika Zagrobelna's tutorials](https://monikazagrobelna.com/)
 
 # 2D Art
+
 - [Drawing for Complete Beginners](https://design.tutsplus.com/articles/i-want-to-draw-simple-exercises-for-complete-beginners--vector-20583)
 - [How to Learn to Draw](https://design.tutsplus.com/series/how-to-learn-to-draw--cms-890)
 - [Simply Drawing](https://archive.org/details/simplydrawing0000gran)
@@ -60,6 +63,7 @@
     - [Vilppu](https://archive.org/details/Vilppu_Drawing_Manual.pdf)
 
 # 3D Art
+
 - [Intro Maya](https://www.youtube.com/playlist?list=PLD8E5717592CF5C26)
 - [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
 - [Blender Donuts](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)

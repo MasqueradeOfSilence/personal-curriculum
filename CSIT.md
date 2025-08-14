@@ -63,6 +63,8 @@
     - [IBM Mobile Application Development](https://www.coursera.org/professional-certificates/ibm-ios-android-mobile-app-developer-pc)
     - [Java Network Programming](https://www.udemy.com/course/java-network-programming/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.US&campaigntype=Search&portfolio=USA&language=EN&product=Course&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_162107351193_._ad_696074114838_._kw__._de_c_._dm__._pl__._ti_aud-2268488108639%3Adsa-1677053911888_._li_9029717_._pd__._&matchtype=&gad_source=1&gad_campaignid=21164973268&gbraid=0AAAAADROdO3kFt-uh6M36OconDl-xWvFj&gclid=Cj0KCQjwzOvEBhDVARIsADHfJJSZvnJ0VL9oXnbOMqUKLC6KamVWa8v07XnDmE6NyNbtjuFfcrzzZFUaAoofEALw_wcB&couponCode=PMNVD1525)
     - [Hacking with Swift](https://www.hackingwithswift.com/)
+    - [Kotlin](https://developer.android.com/kotlin/campaign/learn)
+    - [Flutter/Dart](https://flutter.dev/learn)
 - [ ] Computational Theory
     - [The Complete Theory of Computation](https://www.udemy.com/course/the-complete-theory-of-computation/?srsltid=AfmBOoqGKthwo79YaHlwhEL6Uig3DcM2RcEszNL5DSgt05KccYQncyO0&couponCode=PMNVD1525)
     - Skipping computational theory is for chumps.
