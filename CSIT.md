@@ -115,3 +115,4 @@
 - also check, I think software engineering would have QA course so put that in
 - the missing semester (computer ecosystems)
 - concepts like: how ides work, config files, https://spring.io/projects/spring-boot...
+- 50% rule: 50% of time on learning; 50% on projects
