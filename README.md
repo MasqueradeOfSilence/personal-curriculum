@@ -12,7 +12,7 @@ If you love learning, hopefully you will benefit from this aggregation.
 - [Digital Art](ART.md)
 - [Creative Writing](WRITE.md)
 - [Paleontology](PALEO.md)
-- Music
+- [Music](MUS.md)
 
 ## General Principles to Follow
 - Study daily for at least 2 minutes per topic according to the same general sequence and schedule (atomic habits).
