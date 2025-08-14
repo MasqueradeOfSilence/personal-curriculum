@@ -74,6 +74,7 @@
 - [ ] [Intro Nuke](https://learn.foundry.com/course/6708/view/your-first-day-in-nuke)
 - [ ] [Illuminated Pixels: Lighting for 3D Graphics](https://archive.org/details/illuminatedpixel0000wiss)
 - [ ] [Scripting for Animation: Zurbigg](https://zurbrigg.com/courses)
+- [ ] [VEX Programming in Houdini](https://www.youtube.com/playlist?list=PLxU8Sv31fiKT9-VkulF0oNgWCQGjoqF2m)
 - [ ] [Digital Sculpting](https://www.youtube.com/watch?v=KURuPAVJ6hM)
 - [ ] VFX
     - [Houdini](https://www.youtube.com/playlist?list=PLOcFlKaT7TO8dmMhkDERt_JC_kdGSv3Vn)
