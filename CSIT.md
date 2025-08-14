@@ -266,6 +266,8 @@
     - [Mechanics](https://www.coursera.org/specializations/introduction-to-mechanics)
 - [ ] Electricity and Magnetism
     - [Emags](https://www.coursera.org/specializations/introduction-to-electricity-magnetism)
+- [ ] Light
+    - [Waves and Optics](https://www.coursera.org/specializations/waves-optics)
 - [ ] The Rest of Physics
     - [Susan Rigetti: Physics](https://www.susanrigetti.com/physics)
     - [Angela Collier: How To Teach Yourself Physics](https://www.youtube.com/watch?v=Cw97Tj5zxvA)
