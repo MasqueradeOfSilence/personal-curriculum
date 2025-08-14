@@ -55,6 +55,7 @@
     - [UCSD: Discrete Mathematics](https://www.coursera.org/specializations/discrete-mathematics)
     - [Stanford: Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
 - [ ] Computer Systems
+    - [Code by Charles Petzold](https://bobcarp.wordpress.com/wp-content/uploads/2014/07/code-charles-petzold.pdf)
     - [Nand2Tetris](https://www.nand2tetris.org/)
     - [Computer Systems: A Programmer's Perspective](https://teachyourselfcs.com/#architecture)
 - [ ] Software Engineering / Mobile Intro
@@ -71,6 +72,13 @@
     - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [ ] Algorithm Analysis
     - [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
+- [ ] Computer Ecosystems
+    - [The Missing Semester](https://missing.csail.mit.edu/)
+    - [Think Like a Git](https://think-like-a-git.net/)
+- [ ] Culture and History of Computers
+    - [How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
+    - [Usenet](https://www.harley.com/usenet/)
+    - [IBM-Z Mainframes](https://www.ibm.com/products/z/education)
 - [ ] Computer Networking
     - [Computer Networking: A Top-Down Approach](https://teachyourselfcs.com/#networking)
 - [ ] Systems Programming
@@ -78,29 +86,50 @@
     - [Networking Concepts with Socket Programming](https://www.udemy.com/course/network-programming-from-scratch/?srsltid=AfmBOoojc2vsK0Dgmb1TmAIHfYQFVAcjuCCetNYoORjmOUftg7OZk7YC&couponCode=NVD20PMUS)
 - [ ] Software Design
     - [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
-- Databases (use teachyourselfcs but also the microsoft ssms course)
-- Languages and Compilers
-- Distributed Systems
-- Quality Assurance
-- Computer Ecosystems
-- Software Engineering (This is where I will put the IBM certs, plus deployments, how IDEs work, config files, etc.)
-- Cloud Computing 
-- Open Source Software
-- Operating Systems
+- [ ] Databases 
+    - [Database Concepts](https://teachyourselfcs.com/#databases)
+    - [SQL Server](https://www.coursera.org/professional-certificates/microsoft-sql-server)
+- [ ] Languages and Compilers
+    - [Crafting Interpreters](https://teachyourselfcs.com/#languages)
+- [ ] Distributed Systems
+    - [Distributed Systems](https://teachyourselfcs.com/#distributed-systems)
+- [ ] Quality Assurance
+    - [The Complete QA Course](https://www.udemy.com/course/the-complete-quality-assurance/?srsltid=AfmBOoriQoE4pay3AMy9_blp_v93wybD8LBQqpUN_YlvQKvn3EtynoJ1&couponCode=MT130825A)
+- [ ] Software Engineering (This is where I will put the IBM certs, plus deployments, how IDEs work, config files, etc.)
+    - [Full-Stack Development](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_ibm-full-stack-cloud-developer_ibm_ftcof_professional-certificates_px_dr_bau_gg_sem_pr-bd_us-ca_en_m_hyb_23-05_x&campaignid=20192678307&adgroupid=165347497625&device=c&keyword=ibm%20full%20stack%20developer&matchtype=b&network=g&devicemodel=&creativeid=708826974602&assetgroupid=&targetid=kwd-909588696682&extensionid=&placement=&gad_source=1&gad_campaignid=20192678307&gbraid=0AAAAADdKX6bAsCYRg1pWD3t--UwzXGhel&gclid=CjwKCAjwkvbEBhApEiwAKUz6-06OW5NfA-OQNGljFqbOwMAP30p1pdQdIaED5B-dlmARpeJm6UU5fxoC8wgQAvD_BwE)
+    - [DevOps and Software Engineering](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+    - [Clean Code](https://github.com/Gatjuat-Wicteat-Riek/clean-code-book)
+    - [Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+    - [GoLang](https://www.coursera.org/specializations/google-golang)
+    - [Functional Programming](https://haskell.mooc.fi/)
+- [ ] Cloud Computing 
+    - [LearnToCloud](https://learntocloud.guide/)
+    - Vendor-specific certs (TBD)
+- [ ] Operating Systems
+    - [OSDev](https://wiki.osdev.org/Expanded_Main_Page)
+- [ ] Artificial Intelligence and Machine Learning
+    - [Fast.ai](https://www.fast.ai/)
+    - [DeepLearning.ai](https://www.deeplearning.ai/)
 
 # Cybersecurity
 
 # Computer Graphics
+- [ ] Computer Graphics
+    - [Scratchapixel](https://www.scratchapixel.com/)
+    - [Graphics CodeX](https://graphicscodex.com/)
+    - [Real-Time Rendering](https://www.realtimerendering.com/)
+- [ ] Image Processing 
+- [ ] Video Streaming
+- [ ] Computer Vision
 - [ ] Rigging
     - [Rigging for Games](https://www.amazon.com/Rigging-Games-Primer-Technical-Artists/dp/0415743044)
+- [ ] Simulation
 
 # Game Design and Development
 
 # UI/UX
 
-# Machine Learning
-
-# Embedded Systems
+# Embedded Systems and Robotics
 
 # Math
 
@@ -109,10 +138,7 @@
 # Communities/Blogs/YouTube 
 
 # Notes (will delete)
-- IBM certs: full stack, mobile application development, AI developer, data engineering, mainframe, devops, java
-- don't forget cloud
-- here are some languages that it would be nice to learn: Go, Haskell? I don't know either of these yet
-- also check, I think software engineering would have QA course so put that in
-- the missing semester (computer ecosystems)
-- concepts like: how ides work, config files, https://spring.io/projects/spring-boot...
+- concepts like: how ides work, config files
 - 50% rule: 50% of time on learning; 50% on projects
+- what about streaming ffmpeg, etc. 
+- something like bioinformatics would only apply for example paleontology as it's not really a core cs concept. if you wanted to do CAD that would be on the engineering page
