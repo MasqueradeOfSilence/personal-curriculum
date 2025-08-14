@@ -8,16 +8,11 @@ This isn't a "get job fast" roadmap. It is intended to be _extremely_ comprehens
 If you love learning, hopefully you will benefit from this aggregation. 
 
 ## Topics
-- [Computer Science and IT](CSIT.md)
+- [Computer Science, Engineering, Math/Physics, and IT](CSIT.md)
 - Digital Art
 - Creative Writing
-- Electrical and Computer Engineering
-- Mechanical Engineering
-- Mathematics
-- Physics 
 - Paleontology
 - Music
-- Theme Park Engineering and Design
 - General Education
 - Personal Productivity System
 
