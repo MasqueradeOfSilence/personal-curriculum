@@ -178,6 +178,7 @@
     - [NandLand](https://nandland.com/)
 - [ ] Mechanical Engineering
     - [4Chan Science: Mechanical Engineering](https://4chan-science.fandom.com/wiki/Mechanical_and_Aerospace_Engineering)
+    - [Georgia Tech: Engineering on Coursera](https://www.coursera.org/partners/gatech)
 - [ ] Embedded Systems
     - [Embedded Artistry Resources](https://embeddedartistry.com/beginners/)
     - [Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
