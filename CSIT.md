@@ -135,6 +135,8 @@
     - [Linux Basics for Hackers](https://kea.nu/files/textbooks/humblesec/linuxbasicsforhackers.pdf)
 - [ ] Homelabs
     - [Homelabbing](https://www.learntohomelab.com/homelabseries/EP0_startguide/)
+- [ ] ICS Security
+    - [ICS Cybersecurity](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/)
 
 
 # Computer Graphics
