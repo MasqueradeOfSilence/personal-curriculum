@@ -61,6 +61,7 @@
 - [ ] Software Engineering / Mobile Intro
     - [IBM Mobile Application Development](https://www.coursera.org/professional-certificates/ibm-ios-android-mobile-app-developer-pc)
     - [Java Network Programming](https://www.udemy.com/course/java-network-programming/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.US&campaigntype=Search&portfolio=USA&language=EN&product=Course&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_162107351193_._ad_696074114838_._kw__._de_c_._dm__._pl__._ti_aud-2268488108639%3Adsa-1677053911888_._li_9029717_._pd__._&matchtype=&gad_source=1&gad_campaignid=21164973268&gbraid=0AAAAADROdO3kFt-uh6M36OconDl-xWvFj&gclid=Cj0KCQjwzOvEBhDVARIsADHfJJSZvnJ0VL9oXnbOMqUKLC6KamVWa8v07XnDmE6NyNbtjuFfcrzzZFUaAoofEALw_wcB&couponCode=PMNVD1525)
+    - [Hacking with Swift](https://www.hackingwithswift.com/)
 - [ ] Computational Theory
     - [The Complete Theory of Computation](https://www.udemy.com/course/the-complete-theory-of-computation/?srsltid=AfmBOoqGKthwo79YaHlwhEL6Uig3DcM2RcEszNL5DSgt05KccYQncyO0&couponCode=PMNVD1525)
     - Skipping computational theory is for chumps.
@@ -110,28 +111,55 @@
 - [ ] Artificial Intelligence and Machine Learning
     - [Fast.ai](https://www.fast.ai/)
     - [DeepLearning.ai](https://www.deeplearning.ai/)
+    - [AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer)
 
 # Cybersecurity
+- [Ethical Hacking Roadmap from TCM Security](https://tcm-sec.com/how-to-be-an-ethical-hacker-in-2025/)
+- [Ethical Hacking: A Hands-On Introduction to Breaking In](https://github.com/Kalyan-Deva/Hacking-Bug-Bounty-Books/blob/main/ethical-hacking-a-hands-on-introduction-to-breaking-in-1718501870-9781718501874.pdf)
+- [Malware Reverse Engineering](https://malwareunicorn.org/workshops/re101.html#0)
+- [Flipper Zero](https://www.udemy.com/course/flipperzero/?srsltid=AfmBOoqMTGugG2yMBFRy31W4UMLfo7WFqOk3roh0leJ1K-XxBR8WX5vG&couponCode=MT130825A)
+- [Cisco Certifications](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html)
+- [Black Hat Python](https://digtvbg.com/files/books-for-hacking/Black%20Hat%20Python%20-%20Python%20Programming%20for%20Hackers%20and%20Pentesters%20by%20Justin%20Seitz.pdf)
+- [Linux Basics for Hackers](https://kea.nu/files/textbooks/humblesec/linuxbasicsforhackers.pdf)
 
 # Computer Graphics
 - [ ] Computer Graphics
     - [Scratchapixel](https://www.scratchapixel.com/)
+    - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
     - [Graphics CodeX](https://graphicscodex.com/)
     - [Real-Time Rendering](https://www.realtimerendering.com/)
-- [ ] Image Processing 
+- [ ] Image Processing and Computer Vision
+    - [Computer Vision](https://www.coursera.org/professional-certificates/mathworks-computer-vision-engineer)
 - [ ] Video Streaming
-- [ ] Computer Vision
+    - [Learning FFmpeg](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 - [ ] Rigging
     - [Rigging for Games](https://www.amazon.com/Rigging-Games-Primer-Technical-Artists/dp/0415743044)
+- [ ] Technical Art
+    - [Math for Technical Artists (book series)](https://jettelly.com/bundles/bundle-usb-ve1-ve2)
+    - [Ben Cloward: Recommendations](https://www.bencloward.com/resources_books.shtml)
 - [ ] Simulation
+    - [Simulation and Modeling of Natural Processes](https://www.coursera.org/learn/modeling-simulation-natural-processes)
+    - [Fluid Simulation for Computer Graphics](https://api.pageplace.de/preview/DT0400.9781482232844_A35196471/preview-9781482232844_A35196471.pdf)
 
 # Game Design and Development
+- [ ] Intro to Game Design
+    - [How to make a Video Game in Unity (Brackeys)](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
+- [ ] Game Design Art
+    - [Art and Concepts](https://www.coursera.org/specializations/game-design)
+- [ ] Game Engines
+    - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
 
 # UI/UX
 
 # Embedded Systems and Robotics
+- [ ] Intro to Engineering
+    - [OpGuides: Engineering](https://opguides.info/)
+- PLCs 
+- Robotics
+    - [Modern Robotics](https://www.coursera.org/specializations/modernrobotics)
 
 # Math
+- MATLAB
 
 # Physics
 
