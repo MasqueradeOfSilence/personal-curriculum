@@ -69,6 +69,24 @@
     - [The Odin Project](https://www.theodinproject.com/)
     - [Full Stack Open](https://fullstackopen.com/en/)
     - [Flexbox Froggy](https://flexboxfroggy.com/)
+- [ ] Algorithm Analysis
+    - [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
+- [ ] Computer Networking
+    - [Computer Networking: A Top-Down Approach](https://teachyourselfcs.com/#networking)
+- [ ] Systems Programming
+    - [Linux Systems Programming](https://www.udemy.com/course/linux-system-programming-f/?srsltid=AfmBOoohbfPWZiUqJ9XUm6m0jWCFmEENibPGXHnqBKbysQ5TZzN8okjR&couponCode=NVD20PMUS)
+    - [Networking Concepts with Socket Programming](https://www.udemy.com/course/network-programming-from-scratch/?srsltid=AfmBOoojc2vsK0Dgmb1TmAIHfYQFVAcjuCCetNYoORjmOUftg7OZk7YC&couponCode=NVD20PMUS)
+- [ ] Software Design
+    - [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
+- Databases (use teachyourselfcs but also the microsoft ssms course)
+- Languages and Compilers
+- Distributed Systems
+- Quality Assurance
+- Computer Ecosystems
+- Software Engineering (This is where I will put the IBM certs, plus deployments, etc.)
+- Cloud Computing 
+- Open Source Software
+- Operating Systems
 
 # Cybersecurity
 
@@ -84,8 +102,6 @@
 
 # Embedded Systems
 
-# Operating Systems
-
 # Math
 
 # Physics
@@ -95,3 +111,7 @@
 # Notes (will delete)
 - IBM certs: full stack, mobile application development, AI developer, data engineering, mainframe, devops, java
 - don't forget cloud
+- here are some languages that it would be nice to learn: Go, Haskell? I don't know either of these yet
+- also check, I think software engineering would have QA course so put that in
+- the missing semester (computer ecosystems)
+- concepts like: how ides work, config files, https://spring.io/projects/spring-boot...
