@@ -172,6 +172,7 @@
 
 # Embedded Systems, Engineering, and Robotics
 - [ ] Intro to Engineering
+    - [Intro EE](https://www.edx.org/learn/engineering/institute-of-science-tokyo-introduction-to-electrical-and-electronic-engineering-dian-qi-dian-zi-gong-xue-ru-men)
     - [OpGuides: Engineering](https://opguides.info/)
     - [Step by Step Electrical Engineering](https://www.amazon.com/Step-Step-Electrical-Engineering-Enthusiasts/dp/B0DJD31ZZX)
 - [ ] Electrical Engineering
@@ -184,6 +185,7 @@
 - [ ] Embedded Systems
     - [Embedded Artistry Resources](https://embeddedartistry.com/beginners/)
     - [Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+    - [Circuits and Electronics](https://www.edx.org/xseries/mitx-circuits-and-electronics)
 - [ ] PLCs 
     - [PLC Dojo](https://www.plcdojo.com/)
     - [Inductive University](https://inductiveuniversity.com/)
@@ -192,6 +194,7 @@
 - [ ] Engineering Graphics
     - [Drawing](https://www.udemy.com/course/engineering-drawing-graphics/?srsltid=AfmBOorajVmw9nAFAB4z2Lb6zv59Dcq3dvnuOKL_GHw71ohOFcEByFvj&couponCode=MT130825A)
     - [CAD](https://www.mycadsite.com/tutorials.html)
+    - [Engineering Design](https://www.edx.org/certificates/professional-certificate/mathworks-engineering-design-and-simulation)
 - [ ] Theme Park Design
     - [Intro TPED](https://www.udemy.com/course/theme-park-design/?srsltid=AfmBOookHgmGQXz9jSN6CvyHd1-PunwJhuOPAbQjTvzoezOJ8uFRkGBs)
     - [Imagineering](https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box)
