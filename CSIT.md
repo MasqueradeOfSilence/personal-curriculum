@@ -83,7 +83,7 @@
 - Distributed Systems
 - Quality Assurance
 - Computer Ecosystems
-- Software Engineering (This is where I will put the IBM certs, plus deployments, etc.)
+- Software Engineering (This is where I will put the IBM certs, plus deployments, how IDEs work, config files, etc.)
 - Cloud Computing 
 - Open Source Software
 - Operating Systems
