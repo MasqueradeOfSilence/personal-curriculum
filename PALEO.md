@@ -1,5 +1,6 @@
 # Paleontology and misc STEM topics
 
+
 - [ ] Intro
     - [Dino 101](https://www.coursera.org/learn/dino101)
     - [Dinosaurs](https://www.coursera.org/learn/dinosaurs)
