@@ -139,6 +139,7 @@
 - [ ] 2D Computer Graphics
     - [Brushstroke Algorithms](https://jcgt.org/published/0007/01/01/paper.pdf)
     - [Non-Photorealistic Rendering](https://www.amazon.ca/Non-Photorealistic-Rendering-Bruce-Gooch/dp/1568811330)
+    - [Intro to Hacking Krita](https://docs.krita.org/en/untranslatable_pages/intro_hacking_krita.html)
 - [ ] 3D Computer Graphics
     - [Scratchapixel](https://www.scratchapixel.com/)
     - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
@@ -162,8 +163,9 @@
     - [Fluid Simulation for Computer Graphics](https://api.pageplace.de/preview/DT0400.9781482232844_A35196471/preview-9781482232844_A35196471.pdf)
 - [ ] GPUs
     - [GPU Programming](https://www.coursera.org/specializations/gpu-programming/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_gpu-programming_jhu_ftcof_specializations_px_dr_bau_gg_sem_pr_us-ca_en_m_hyb_24-11_x&campaignid=21876399000&adgroupid=168462627045&device=c&keyword=graphics%20processing%20unit&matchtype=b&network=g&devicemodel=&creativeid=720221719408&assetgroupid=&targetid=kwd-298851134543&extensionid=&placement=&gad_source=1&gad_campaignid=21876399000&gbraid=0AAAAADdKX6b3DscT9E-llwQvhqCrTeyKp&gclid=CjwKCAjwkvbEBhApEiwAKUz6-1-qGP8mfH7weB5BKyzRnB8woNDBQ6Xml8UbFpe6dr3n611dP3Q-uhoC7eQQAvD_BwE)
-- [ ] OpenUSD
+- [ ] 3D Applications
     - [Book of USD](https://remedy-entertainment.github.io/USDBook/)
+    - [Blender Development](https://developer.blender.org/)
 
 # Game Design and Development
 - [ ] Intro to Game Design
