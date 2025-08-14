@@ -10,11 +10,9 @@ If you love learning, hopefully you will benefit from this aggregation.
 ## Topics
 - [Computer Science, Engineering, Math/Physics, and IT](CSIT.md)
 - [Digital Art](ART.md)
-- Creative Writing
-- Paleontology
+- [Creative Writing](WRITE.md)
+- [Paleontology](PALEO.md)
 - Music
-- General Education
-- Personal Productivity System
 
 ## General Principles to Follow
 - Study daily for at least 2 minutes per topic according to the same general sequence and schedule (atomic habits).

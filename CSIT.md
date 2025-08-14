@@ -132,6 +132,7 @@
     - [Malware Reverse Engineering](https://malwareunicorn.org/workshops/re101.html#0)
 - [ ] Hands-on Tools
     - [Flipper Zero](https://www.udemy.com/course/flipperzero/?srsltid=AfmBOoqMTGugG2yMBFRy31W4UMLfo7WFqOk3roh0leJ1K-XxBR8WX5vG&couponCode=MT130825A)
+    - [Lockpicking](https://www.udemy.com/course/the-ultimate-guide-to-lock-picking/?srsltid=AfmBOoptK45d6-o06kUaAbNDbketYqr5bmqxfmHkjcrkulYFlRQUo0sR&couponCode=PMNVD1525)
 - [ ] Intermediate/Advanced Networking (Networking 3)
     - [Cisco Certifications](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html)
 - [ ] IT and CS Skills for Hacking
@@ -191,6 +192,10 @@
     - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
 - [ ] Quaternions
     - [Udemy](https://www.udemy.com/course/quaternions/?srsltid=AfmBOop4vkKpN6aQaBeCotRclIotbtsCbWQ6Z3oqehZBD4Z6iECX7ygr)
+- [ ] Esports
+    - [Esports Management and Game Development](https://www.edx.org/certificates/professional-certificate/hp-esports-management-and-game-development)
+    - [UCI Esports](https://www.coursera.org/specializations/esports)
+
 
 # UI/UX
 - [ ] Graphic Design
@@ -240,6 +245,8 @@
 # Math
 - [ ] Foundations of Math
     - [Khan Academy](https://www.khanacademy.org/math)
+- [ ] Introduction to Logic
+    - [The Logic of Science: The Rules of Logic](https://thelogicofscience.com/rules-of-logic/)
 - [ ] The Rest of Math (Calc 1-3, Linear Algebra, Discrete Math/Proofs, DiffEq)
     - [Susan Rigetti: Math](https://www.susanrigetti.com/math)
     - [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers)
