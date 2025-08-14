@@ -1,9 +1,8 @@
 # Paleontology and misc STEM topics
 
 
-- [ ] Intro
-    - [Dino 101](https://www.coursera.org/learn/dino101)
-    - [Dinosaurs](https://www.coursera.org/learn/dinosaurs)
+- [Dino 101](https://www.coursera.org/learn/dino101)
+- [Dinosaurs](https://www.coursera.org/learn/dinosaurs)
 - [Theropods and Birds](https://www.coursera.org/learn/theropods-birds)
 - [Marine Reptiles](https://www.coursera.org/learn/ancient-marine-reptiles)
 - [Early Vertebrate Evolution](https://www.coursera.org/learn/early-vertebrate-evolution)
