@@ -13,6 +13,7 @@
     - [How Computers Work](https://edu.gcfglobal.org/en/computerbasics/)
     - [Computer Applications: Excel](https://www.homeandlearn.co.uk/excel2007/Excel2007.html)
     - [Excel VBA](https://www.homeandlearn.co.uk/NET/excel_vba.html)
+    - [Learning to Build a PC (Also covered in Google IT Support)](https://www.pcmag.com/how-to/how-to-build-a-pc-the-ultimate-beginners-guide)
 - [ ] Introduction to IT
     - [Getting started in IT (Network Chuck)](https://www.youtube.com/watch?v=5xWnmUEi1Qw)
     - [Dell Technical Support Certificate](https://www.coursera.org/professional-certificates/dell-technologies-technical-customer-support-specialist)
@@ -80,7 +81,7 @@
     - [How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
     - [Usenet](https://www.harley.com/usenet/)
     - [IBM-Z Mainframes](https://www.ibm.com/products/z/education)
-- [ ] Computer Networking
+- [ ] Computer Networking 2
     - [Computer Networking: A Top-Down Approach](https://teachyourselfcs.com/#networking)
 - [ ] Systems Programming
     - [Linux Systems Programming](https://www.udemy.com/course/linux-system-programming-f/?srsltid=AfmBOoohbfPWZiUqJ9XUm6m0jWCFmEENibPGXHnqBKbysQ5TZzN8okjR&couponCode=NVD20PMUS)
@@ -126,7 +127,7 @@
     - [Malware Reverse Engineering](https://malwareunicorn.org/workshops/re101.html#0)
 - [ ] Hands-on Tools
     - [Flipper Zero](https://www.udemy.com/course/flipperzero/?srsltid=AfmBOoqMTGugG2yMBFRy31W4UMLfo7WFqOk3roh0leJ1K-XxBR8WX5vG&couponCode=MT130825A)
-- Intermediate/Advanced Networking
+- [ ] Intermediate/Advanced Networking (Networking 3)
     - [Cisco Certifications](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html)
 - [ ] IT and CS Skills for Hacking
     - [Black Hat Python](https://digtvbg.com/files/books-for-hacking/Black%20Hat%20Python%20-%20Python%20Programming%20for%20Hackers%20and%20Pentesters%20by%20Justin%20Seitz.pdf)
