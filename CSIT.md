@@ -157,6 +157,8 @@
     - [How to make a Video Game in Unity (Brackeys)](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
 - [ ] Game Design Art
     - [Art and Concepts](https://www.coursera.org/specializations/game-design)
+- [ ] Game Music
+    - [Intro](https://ruoyusun.com/2017/08/29/make-some-music.html)
 - [ ] Game Engines
     - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
 
