@@ -95,6 +95,7 @@
 - [ ] Distributed Systems
     - [Distributed Systems](https://teachyourselfcs.com/#distributed-systems)
 - [ ] Quality Assurance
+    - [Google IT Automation](https://www.coursera.org/professional-certificates/google-it-automation)
     - [The Complete QA Course](https://www.udemy.com/course/the-complete-quality-assurance/?srsltid=AfmBOoriQoE4pay3AMy9_blp_v93wybD8LBQqpUN_YlvQKvn3EtynoJ1&couponCode=MT130825A)
 - [ ] Software Engineering II
     - [Full-Stack Development](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_ibm-full-stack-cloud-developer_ibm_ftcof_professional-certificates_px_dr_bau_gg_sem_pr-bd_us-ca_en_m_hyb_23-05_x&campaignid=20192678307&adgroupid=165347497625&device=c&keyword=ibm%20full%20stack%20developer&matchtype=b&network=g&devicemodel=&creativeid=708826974602&assetgroupid=&targetid=kwd-909588696682&extensionid=&placement=&gad_source=1&gad_campaignid=20192678307&gbraid=0AAAAADdKX6bAsCYRg1pWD3t--UwzXGhel&gclid=CjwKCAjwkvbEBhApEiwAKUz6-06OW5NfA-OQNGljFqbOwMAP30p1pdQdIaED5B-dlmARpeJm6UU5fxoC8wgQAvD_BwE)
@@ -112,9 +113,12 @@
     - [Fast.ai](https://www.fast.ai/)
     - [DeepLearning.ai](https://www.deeplearning.ai/)
     - [AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer)
+- [ ] Bioinformatics
+    - [Bioinformatics Honors](https://www.coursera.org/specializations/bioinformatics)
 
 # Cybersecurity
 - [Ethical Hacking Roadmap from TCM Security](https://tcm-sec.com/how-to-be-an-ethical-hacker-in-2025/)
+- [Google Cybersecurity](https://www.coursera.org/professional-certificates/google-cybersecurity/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_google-cybersecurity_google_ftcof_professional-certificates_px_dr_bau_gg_sem_pr-bd_us_en_m_hyb_23-05_x&campaignid=20086358053&adgroupid=147458924814&device=c&keyword=google%20cybersecurity%20certification&matchtype=b&network=g&devicemodel=&creativeid=690662791095&assetgroupid=&targetid=kwd-1173197315406&extensionid=&placement=&gad_source=1&gad_campaignid=20086358053&gbraid=0AAAAADdKX6ZutQtVs-D1aaISNlGW5z82U&gclid=CjwKCAjwkvbEBhApEiwAKUz6-0P7n06oHqajf8ZJgcYSxVWbhN_iRV8V5sRmleEDVgaqMPzJLwgJfRoCZGkQAvD_BwE)
 - [Ethical Hacking: A Hands-On Introduction to Breaking In](https://github.com/Kalyan-Deva/Hacking-Bug-Bounty-Books/blob/main/ethical-hacking-a-hands-on-introduction-to-breaking-in-1718501870-9781718501874.pdf)
 - [Malware Reverse Engineering](https://malwareunicorn.org/workshops/re101.html#0)
 - [Flipper Zero](https://www.udemy.com/course/flipperzero/?srsltid=AfmBOoqMTGugG2yMBFRy31W4UMLfo7WFqOk3roh0leJ1K-XxBR8WX5vG&couponCode=MT130825A)
@@ -150,23 +154,62 @@
     - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
 
 # UI/UX
+- [ ] Graphic Design
+    - [CalArts Graphic Design](https://www.coursera.org/specializations/graphic-design)
+    - [Adobe Graphic Design](https://www.coursera.org/professional-certificates/adobe-graphic-designer)
+- [ ] UI/UX
+    - [CalArts UI/UX](https://www.coursera.org/specializations/ui-ux-design)
+    - [Google UX](https://www.coursera.org/professional-certificates/google-ux-design)
 
-# Embedded Systems and Robotics
+# Embedded Systems, Engineering, and Robotics
 - [ ] Intro to Engineering
     - [OpGuides: Engineering](https://opguides.info/)
-- PLCs 
-- Robotics
+    - [Step by Step Electrical Engineering](https://www.amazon.com/Step-Step-Electrical-Engineering-Enthusiasts/dp/B0DJD31ZZX)
+- [ ] Electrical Engineering
+    - [Khan](https://www.khanacademy.org/science/electrical-engineering)
+    - [OSEE](https://github.com/Artoriuz/OSEE)
+    - [NandLand](https://nandland.com/)
+- [ ] Mechanical Engineering
+    - [4Chan Science: Mechanical Engineering](https://4chan-science.fandom.com/wiki/Mechanical_and_Aerospace_Engineering)
+- [ ] Embedded Systems
+    - [Embedded Artistry Resources](https://embeddedartistry.com/beginners/)
+    - [Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+- [ ] PLCs 
+    - [PLC Dojo](https://www.plcdojo.com/)
+    - [Inductive University](https://inductiveuniversity.com/)
+- [ ] Robotics
     - [Modern Robotics](https://www.coursera.org/specializations/modernrobotics)
+- [ ] Engineering Graphics
+    - [Drawing](https://www.udemy.com/course/engineering-drawing-graphics/?srsltid=AfmBOorajVmw9nAFAB4z2Lb6zv59Dcq3dvnuOKL_GHw71ohOFcEByFvj&couponCode=MT130825A)
+    - [CAD](https://www.mycadsite.com/tutorials.html)
+- [ ] Theme Park Design
+    - [Intro TPED](https://www.udemy.com/course/theme-park-design/?srsltid=AfmBOookHgmGQXz9jSN6CvyHd1-PunwJhuOPAbQjTvzoezOJ8uFRkGBs)
+    - [Imagineering](https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box)
+    - [Coasters 101](https://www.amazon.com/Coasters-101-Engineers-Roller-Coaster/dp/1468013556)
+    - [Management](https://www.edx.org/masters/micromasters/hkpolyux-international-hospitality-management)
 
 # Math
-- MATLAB
+- [ ] Foundations of Math
+    - [Khan Academy](https://www.khanacademy.org/math)
+- [ ] The Rest of Math (Calc 1-3, Linear Algebra, Discrete Math/Proofs, DiffEq)
+    - [Susan Rigetti: Math](https://www.susanrigetti.com/math)
+    - [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers)
+- [ ] MATLAB 
+    - [MATLAB Programming](https://www.coursera.org/specializations/matlab-programming-engineers-scientists)
 
 # Physics
-
-# Communities/Blogs/YouTube 
-
-# Notes (will delete)
-- concepts like: how ides work, config files
-- 50% rule: 50% of time on learning; 50% on projects
-- what about streaming ffmpeg, etc. 
-- something like bioinformatics would only apply for example paleontology as it's not really a core cs concept. if you wanted to do CAD that would be on the engineering page
+- [ ] Intro Physics
+    - [Khan](https://www.khanacademy.org/science/physics)
+    - [Serway/Jewett](https://www.lehman.edu/faculty/anchordoqui/SJ1.pdf)
+- [ ] Astronomy
+    - [Khan](https://www.khanacademy.org/science/cosmology-and-astronomy)
+- [ ] Mechanics
+    - [Mechanics](https://www.coursera.org/specializations/introduction-to-mechanics)
+- [ ] Electricity and Magnetism
+    - [Emags](https://www.coursera.org/specializations/introduction-to-electricity-magnetism)
+- [ ] The Rest of Physics
+    - [Susan Rigetti: Physics](https://www.susanrigetti.com/physics)
+    - [Angela Collier: How To Teach Yourself Physics](https://www.youtube.com/watch?v=Cw97Tj5zxvA)
+    
+# Remember
+- 50% rule: Spend half your time on learning and half of it on personal projects. 
