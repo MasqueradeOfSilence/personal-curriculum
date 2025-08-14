@@ -117,14 +117,23 @@
     - [Bioinformatics Honors](https://www.coursera.org/specializations/bioinformatics)
 
 # Cybersecurity
-- [Ethical Hacking Roadmap from TCM Security](https://tcm-sec.com/how-to-be-an-ethical-hacker-in-2025/)
-- [Google Cybersecurity](https://www.coursera.org/professional-certificates/google-cybersecurity/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_google-cybersecurity_google_ftcof_professional-certificates_px_dr_bau_gg_sem_pr-bd_us_en_m_hyb_23-05_x&campaignid=20086358053&adgroupid=147458924814&device=c&keyword=google%20cybersecurity%20certification&matchtype=b&network=g&devicemodel=&creativeid=690662791095&assetgroupid=&targetid=kwd-1173197315406&extensionid=&placement=&gad_source=1&gad_campaignid=20086358053&gbraid=0AAAAADdKX6ZutQtVs-D1aaISNlGW5z82U&gclid=CjwKCAjwkvbEBhApEiwAKUz6-0P7n06oHqajf8ZJgcYSxVWbhN_iRV8V5sRmleEDVgaqMPzJLwgJfRoCZGkQAvD_BwE)
-- [Ethical Hacking: A Hands-On Introduction to Breaking In](https://github.com/Kalyan-Deva/Hacking-Bug-Bounty-Books/blob/main/ethical-hacking-a-hands-on-introduction-to-breaking-in-1718501870-9781718501874.pdf)
-- [Malware Reverse Engineering](https://malwareunicorn.org/workshops/re101.html#0)
-- [Flipper Zero](https://www.udemy.com/course/flipperzero/?srsltid=AfmBOoqMTGugG2yMBFRy31W4UMLfo7WFqOk3roh0leJ1K-XxBR8WX5vG&couponCode=MT130825A)
-- [Cisco Certifications](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html)
-- [Black Hat Python](https://digtvbg.com/files/books-for-hacking/Black%20Hat%20Python%20-%20Python%20Programming%20for%20Hackers%20and%20Pentesters%20by%20Justin%20Seitz.pdf)
-- [Linux Basics for Hackers](https://kea.nu/files/textbooks/humblesec/linuxbasicsforhackers.pdf)
+- [ ] Intro Cyber
+    - [Ethical Hacking Roadmap from TCM Security](https://tcm-sec.com/how-to-be-an-ethical-hacker-in-2025/)
+    - [Google Cybersecurity](https://www.coursera.org/professional-certificates/google-cybersecurity/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_google-cybersecurity_google_ftcof_professional-certificates_px_dr_bau_gg_sem_pr-bd_us_en_m_hyb_23-05_x&campaignid=20086358053&adgroupid=147458924814&device=c&keyword=google%20cybersecurity%20certification&matchtype=b&network=g&devicemodel=&creativeid=690662791095&assetgroupid=&targetid=kwd-1173197315406&extensionid=&placement=&gad_source=1&gad_campaignid=20086358053&gbraid=0AAAAADdKX6ZutQtVs-D1aaISNlGW5z82U&gclid=CjwKCAjwkvbEBhApEiwAKUz6-0P7n06oHqajf8ZJgcYSxVWbhN_iRV8V5sRmleEDVgaqMPzJLwgJfRoCZGkQAvD_BwE)
+- [ ] Ethical Hacking
+    - [Ethical Hacking: A Hands-On Introduction to Breaking In](https://github.com/Kalyan-Deva/Hacking-Bug-Bounty-Books/blob/main/ethical-hacking-a-hands-on-introduction-to-breaking-in-1718501870-9781718501874.pdf)
+- [ ] Malware Reverse Engineering
+    - [Malware Reverse Engineering](https://malwareunicorn.org/workshops/re101.html#0)
+- [ ] Hands-on Tools
+    - [Flipper Zero](https://www.udemy.com/course/flipperzero/?srsltid=AfmBOoqMTGugG2yMBFRy31W4UMLfo7WFqOk3roh0leJ1K-XxBR8WX5vG&couponCode=MT130825A)
+- Intermediate/Advanced Networking
+    - [Cisco Certifications](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html)
+- [ ] IT and CS Skills for Hacking
+    - [Black Hat Python](https://digtvbg.com/files/books-for-hacking/Black%20Hat%20Python%20-%20Python%20Programming%20for%20Hackers%20and%20Pentesters%20by%20Justin%20Seitz.pdf)
+    - [Linux Basics for Hackers](https://kea.nu/files/textbooks/humblesec/linuxbasicsforhackers.pdf)
+- [ ] Homelabs
+    - [Homelabbing](https://www.learntohomelab.com/homelabseries/EP0_startguide/)
+
 
 # Computer Graphics
 - [ ] 2D Computer Graphics
