@@ -7,6 +7,7 @@
 - [Write SF](https://www.writesf.com/)
 - [Writing Poetry](https://www.coursera.org/learn/poetry-workshop)
 - [Game Writing: Covered under Art for Games](ART.md)
+- [Technical Writing](https://www.coursera.org/learn/technical-writing-introduction)
 
 ## Challenges
 - [Rough Draft Challenge](https://www.youtube.com/playlist?list=PLg6zjsQP4PwdjBSyhHOlZYqriJDs2Ew4U)
