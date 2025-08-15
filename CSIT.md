@@ -114,6 +114,8 @@
 - [ ] Operating Systems
     - [OSDev](https://wiki.osdev.org/Expanded_Main_Page)
 - [ ] Artificial Intelligence and Machine Learning
+    - [Intro to AI](https://github.com/microsoft/ai-for-beginners)
+    - [Intro to ML](https://github.com/Microsoft/ML-for-Beginners)
     - [Fast.ai](https://www.fast.ai/)
     - [DeepLearning.ai](https://www.deeplearning.ai/)
     - [AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer)
