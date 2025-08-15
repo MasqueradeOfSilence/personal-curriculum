@@ -22,3 +22,7 @@
 - [GIS](https://www.coursera.org/specializations/gis)
 - [Zoo and Aquarium Science](https://www.amazon.com/Scientific-Foundations-Zoos-Aquariums-Conservation/dp/1107199190)
 - [Chemistry](https://www.coursera.org/learn/intro-chemistry)
+
+## Non-STEM
+- [Ancient Egypt](https://www.coursera.org/learn/introancientegypt)
+- [Psychology](https://www.coursera.org/learn/introduction-psychology)

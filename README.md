@@ -11,7 +11,7 @@ If you love learning, hopefully you will benefit from this aggregation.
 - [Computer Science, Engineering, Math/Physics, and IT](CSIT.md)
 - [Digital Art](ART.md)
 - [Creative Writing](WRITE.md)
-- [Paleontology](PALEO.md)
+- [Paleontology + other subjects](PALEO.md)
 - [Music](MUS.md)
 
 ## General Principles to Follow
