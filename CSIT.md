@@ -113,10 +113,18 @@
     - Vendor-specific certs (TBD)
 - [ ] Operating Systems
     - [OSDev](https://wiki.osdev.org/Expanded_Main_Page)
-- [ ] Artificial Intelligence and Machine Learning
+- [ ] Bioinformatics
+    - [Bioinformatics Honors](https://www.coursera.org/specializations/bioinformatics)
+- [ ] Quantum Computing
+    - [IBM Quantum Platform](https://quantum.cloud.ibm.com/learning/en)
+
+# AI/ML/Deep Learning
+- [ ] Intro to AI
     - [Intro to AI](https://github.com/microsoft/ai-for-beginners)
     - [AI: Berkeley](https://inst.eecs.berkeley.edu/~cs188)
+- [ ] Intro to ML
     - [Intro to ML](https://github.com/Microsoft/ML-for-Beginners)
+- [ ] Intro Deep Learning
     - [Fast.ai](https://www.fast.ai/)
     - [DeepLearning.ai](https://www.deeplearning.ai/)
         1. Mathematics for Machine Learning and Data Science
@@ -125,11 +133,8 @@
         4. TensorFlow
         5. NLP
         6. Generative
+- [ ] AI Capstone
     - [AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer)
-- [ ] Bioinformatics
-    - [Bioinformatics Honors](https://www.coursera.org/specializations/bioinformatics)
-- [ ] Quantum Computing
-    - [IBM Quantum Platform](https://quantum.cloud.ibm.com/learning/en)
 
 # Cybersecurity
 - [ ] Intro Cyber
