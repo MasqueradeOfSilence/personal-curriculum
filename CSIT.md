@@ -188,7 +188,9 @@
     - [Ben Cloward: Recommendations](https://www.bencloward.com/resources_books.shtml)
 - [ ] Simulation
     - [Simulation and Modeling of Natural Processes](https://www.coursera.org/learn/modeling-simulation-natural-processes)
-    - [Fluid Simulation for Computer Graphics](https://api.pageplace.de/preview/DT0400.9781482232844_A35196471/preview-9781482232844_A35196471.pdf)
+    - [Fluid Simulation for Computer Graphics -- need to find full PDF; this is only partial](https://api.pageplace.de/preview/DT0400.9781482232844_A35196471/preview-9781482232844_A35196471.pdf)
+    - [Fluid Simulation](https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf)
+    - [Physics-Based Animation](https://www.amazon.com/Physics-Based-Animation-Graphics-Erleben/dp/1584503807)
 - [ ] GPUs
     - [GPU Programming](https://www.coursera.org/specializations/gpu-programming/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_gpu-programming_jhu_ftcof_specializations_px_dr_bau_gg_sem_pr_us-ca_en_m_hyb_24-11_x&campaignid=21876399000&adgroupid=168462627045&device=c&keyword=graphics%20processing%20unit&matchtype=b&network=g&devicemodel=&creativeid=720221719408&assetgroupid=&targetid=kwd-298851134543&extensionid=&placement=&gad_source=1&gad_campaignid=21876399000&gbraid=0AAAAADdKX6b3DscT9E-llwQvhqCrTeyKp&gclid=CjwKCAjwkvbEBhApEiwAKUz6-1-qGP8mfH7weB5BKyzRnB8woNDBQ6Xml8UbFpe6dr3n611dP3Q-uhoC7eQQAvD_BwE)
 - [ ] 3D Applications
