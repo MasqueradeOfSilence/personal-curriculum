@@ -1,6 +1,7 @@
 # Things to study daily
 - [Mimo (easy coding warm-up app; basically Duolingo for coding, perfect for the 2-minute rule)](https://mimo.org/)
 - Ethical Hacking University App (Security warm-ups, news): [Apple](https://apps.apple.com/tz/app/ethical-hacking-university-app/id1614989976) | [Google Play](https://play.google.com/store/apps/details?id=com.askills.edu.ethical.hacking.university&hl=en_US)
+- [Programiz C++ App](https://www.programiz.com/learn-cpp)
 - [Data Structures and Algorithms: Programiz](https://www.programiz.com/dsa/getting-started)
 - [Kaggle (ML/Data Science)](https://www.kaggle.com/)
 - [Terminal Commands / Linux (OverTheWire)](https://overthewire.org/wargames/bandit/)
