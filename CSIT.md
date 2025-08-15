@@ -268,6 +268,7 @@
     - [Khan Academy](https://www.khanacademy.org/math)
 - [ ] Introduction to Logic
     - [The Logic of Science: The Rules of Logic](https://thelogicofscience.com/rules-of-logic/)
+    - [Stanford: Intro to Logic](https://www.coursera.org/learn/logic-introduction)
 - [ ] The Rest of Math (Calc 1-3, Linear Algebra, Discrete Math/Proofs, DiffEq)
     - [Susan Rigetti: Math](https://www.susanrigetti.com/math)
     - [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers)
