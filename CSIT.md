@@ -230,6 +230,8 @@
     - [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
     - [PID Controllers in Unity](https://www.youtube.com/watch?v=y3K6FUgrgXw)
     - [Control Theory Fundamentals](https://drive.google.com/file/d/1LAjaDDViFG4H7dQ6PQVHo8XSQHS59GJf/view)
+- [ ] Show Control
+    - [Show Control](https://www.controlgeek.net/bookinfo)
 - [ ] Robotics
     - [Modern Robotics](https://www.coursera.org/specializations/modernrobotics)
 - [ ] Engineering Graphics
