@@ -115,9 +115,16 @@
     - [OSDev](https://wiki.osdev.org/Expanded_Main_Page)
 - [ ] Artificial Intelligence and Machine Learning
     - [Intro to AI](https://github.com/microsoft/ai-for-beginners)
+    - [AI: Berkeley](https://inst.eecs.berkeley.edu/~cs188)
     - [Intro to ML](https://github.com/Microsoft/ML-for-Beginners)
     - [Fast.ai](https://www.fast.ai/)
     - [DeepLearning.ai](https://www.deeplearning.ai/)
+        1. Mathematics for Machine Learning and Data Science
+        2. Machine Learning Specialization 
+        3. Deep Learning Specialization
+        4. TensorFlow
+        5. NLP
+        6. Generative
     - [AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer)
 - [ ] Bioinformatics
     - [Bioinformatics Honors](https://www.coursera.org/specializations/bioinformatics)
