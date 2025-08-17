@@ -65,7 +65,8 @@
 
 # 3D Art
 
-- [ ] [Intro Maya](https://www.youtube.com/playlist?list=PLD8E5717592CF5C26)
+- [ ] [Intro Maya I](https://www.youtube.com/playlist?list=PLD8E5717592CF5C26)
+- [ ] [Intro Maya 2](https://www.udemy.com/course/autodesk-maya-3d-animation-course/)
 - [ ] [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
 - [ ] [Blender Donuts](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)
 - [ ] [Pixar in a Box](https://www.khanacademy.org/computing/pixar)
