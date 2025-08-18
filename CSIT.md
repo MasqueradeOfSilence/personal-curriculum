@@ -50,6 +50,8 @@
     - [Learn Python The Hard Way](https://learnpythonthehardway.org/)
     - [Learn C The Hard Way](https://learncodethehardway.org/c/)
     - [Structure and Interpretation of Computer Programs](https://teachyourselfcs.com/#programming)
+    - [C++ as listed at the top](https://www.learncpp.com/) 
+    - [CMake](https://cmake.org/getting-started/)
 - [ ] Data Structures and Algorithms
     - [UCSD: Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
 - [ ] Mathematics for Computer Science
