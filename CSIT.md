@@ -297,3 +297,8 @@
     
 # Remember
 - 50% rule: Spend half your time on learning and half of it on personal projects. 
+
+# For Fun
+- [Code Forum](https://codeforum.org/)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [GameDev.net](https://www.gamedev.net/)
