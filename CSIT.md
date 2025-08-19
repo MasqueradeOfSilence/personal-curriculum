@@ -34,6 +34,7 @@
     - [Professor Messer Net+](https://www.professormesser.com/get-n10-009-network-plus-certified/)
     - [Net+ Exam Guide Book](https://www.amazon.com/CompTIA-Network-Certification-N10-008-Comptia/dp/1264269056/ref=pd_lpo_d_sccl_2/144-6091275-2237151?pd_rd_w=E7rBv&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=0BZDDJKK87ZGAD8GK8VA&pd_rd_wg=1R1Bj&pd_rd_r=2a8efe9e-30ff-4031-b405-d217c5cd33ec&pd_rd_i=1264269056&psc=1) 
     - [Network+ Course (Jason Dion)](https://www.udemy.com/course/comptia-network-009/?srsltid=AfmBOoqvAmNyuhUVrjcJ_mn7Z1mKcnFL8u1AIjtC4rDaw1AqJ_ANkYzb&couponCode=MT150725G1)
+    - [Data Centers](https://www.udemy.com/course/data-center-essentials/)
 - [ ] Computer Security 1
     - [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/)
     - [Professor Messer Sec+](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
