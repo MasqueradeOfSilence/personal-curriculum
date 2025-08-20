@@ -120,6 +120,7 @@
     - [How npm works](https://npm.github.io/how-npm-works-docs/index.html)
     - [How gradle works](https://docs.gradle.org/current/userguide/gradle_basics.html)
     - other tooling as desired. I feel that there's a gap in building understanding of how these build tools work in a lot of programs.
+    - [Spring](https://www.coursera.org/specializations/spring-framework)
 - [ ] Cloud Computing 
     - [LearnToCloud](https://learntocloud.guide/)
     - Vendor-specific certs (TBD)
