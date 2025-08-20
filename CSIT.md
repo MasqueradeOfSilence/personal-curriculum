@@ -85,6 +85,7 @@
 - [ ] Computer Ecosystems
     - [The Missing Semester](https://missing.csail.mit.edu/)
     - [Think Like a Git](https://think-like-a-git.net/)
+    - [Diagrams with mermaidjs](https://mermaid.js.org/ecosystem/tutorials.html)
 - [ ] Culture and History of Computers
     - [How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
     - [Usenet](https://www.harley.com/usenet/)
