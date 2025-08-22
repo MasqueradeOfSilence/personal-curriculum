@@ -131,6 +131,9 @@
     - [Bioinformatics Honors](https://www.coursera.org/specializations/bioinformatics)
 - [ ] Quantum Computing
     - [IBM Quantum Platform](https://quantum.cloud.ibm.com/learning/en)
+- [ ] Research
+    - [LaTeX](https://www.learnlatex.org/en/)
+    - [reading technical papers](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
 
 # AI/ML/Deep Learning
 - [ ] Intro to AI
