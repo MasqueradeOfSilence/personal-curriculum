@@ -6,7 +6,7 @@
 - [Writing Science Fiction and Fantasy](https://www.youtube.com/playlist?list=PLSH_xM-KC3ZvzkfVo_Dls0B5GiE2oMcLY)
 - [Write SF](https://www.writesf.com/)
 - [Writing Poetry](https://www.coursera.org/learn/poetry-workshop)
-- [Game Writing: Covered under Art for Games](ART.md)
+- [Game Writing](https://www.writingfor.games/)
 - [Technical Writing](https://www.coursera.org/learn/technical-writing-introduction)
 
 ## Challenges
