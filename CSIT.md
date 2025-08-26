@@ -97,6 +97,7 @@
     - [Networking Concepts with Socket Programming](https://www.udemy.com/course/network-programming-from-scratch/?srsltid=AfmBOoojc2vsK0Dgmb1TmAIHfYQFVAcjuCCetNYoORjmOUftg7OZk7YC&couponCode=NVD20PMUS)
 - [ ] Software Design
     - [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
+    - [Requirements Engineering](https://www.coursera.org/specializations/requirements-engineering-secure-software)
 - [ ] Databases 
     - [Database Concepts](https://teachyourselfcs.com/#databases)
     - [SQL Server](https://www.coursera.org/professional-certificates/microsoft-sql-server)
