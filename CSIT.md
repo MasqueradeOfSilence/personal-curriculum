@@ -183,6 +183,7 @@
     - [Intro to Hacking Krita](https://docs.krita.org/en/untranslatable_pages/intro_hacking_krita.html)
 - [ ] 3D Computer Graphics
     - [Scratchapixel](https://www.scratchapixel.com/)
+    - [Learn OpenGL](https://learnopengl.com/)
     - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
     - [Graphics CodeX](https://graphicscodex.com/)
 - [ ] Real-Time Rendering
