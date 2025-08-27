@@ -205,6 +205,7 @@
     - [Ben Cloward: Recommendations](https://www.bencloward.com/resources_books.shtml)
 - [ ] Simulation
     - [Simulation and Modeling of Natural Processes](https://www.coursera.org/learn/modeling-simulation-natural-processes)
+    - [Fluid Flow for the Rest of Us (Marker and Cell Approach)](https://cgweb.informatik.uni-freiburg.de/intern/seminar/gridFluids_fluid_flow_for_the_rest_of_us.pdf)
     - [Fluid Simulation for Computer Graphics -- need to find full PDF; this is only partial](https://api.pageplace.de/preview/DT0400.9781482232844_A35196471/preview-9781482232844_A35196471.pdf)
     - [Fluid Simulation](https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf)
     - [Physics-Based Animation](https://www.amazon.com/Physics-Based-Animation-Graphics-Erleben/dp/1584503807)
@@ -289,6 +290,7 @@
 - [ ] The Rest of Math (Calc 1-3, Linear Algebra, Discrete Math/Proofs, DiffEq)
     - [Susan Rigetti: Math](https://www.susanrigetti.com/math)
     - [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers)
+    - [Book of Proof](https://richardhammack.github.io/BookOfProof/)
 - [ ] Statistics
     - [Intro to Statistics](https://www.coursera.org/learn/stanford-statistics)
 - [ ] MATLAB 
