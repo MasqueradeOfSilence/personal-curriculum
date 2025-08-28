@@ -158,6 +158,7 @@
 - [ ] Intro Cyber
     - [Ethical Hacking Roadmap from TCM Security](https://tcm-sec.com/how-to-be-an-ethical-hacker-in-2025/)
     - [Google Cybersecurity](https://www.coursera.org/professional-certificates/google-cybersecurity/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_google-cybersecurity_google_ftcof_professional-certificates_px_dr_bau_gg_sem_pr-bd_us_en_m_hyb_23-05_x&campaignid=20086358053&adgroupid=147458924814&device=c&keyword=google%20cybersecurity%20certification&matchtype=b&network=g&devicemodel=&creativeid=690662791095&assetgroupid=&targetid=kwd-1173197315406&extensionid=&placement=&gad_source=1&gad_campaignid=20086358053&gbraid=0AAAAADdKX6ZutQtVs-D1aaISNlGW5z82U&gclid=CjwKCAjwkvbEBhApEiwAKUz6-0P7n06oHqajf8ZJgcYSxVWbhN_iRV8V5sRmleEDVgaqMPzJLwgJfRoCZGkQAvD_BwE)
+    - [ISC2: Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
 - [ ] Ethical Hacking
     - [Ethical Hacking: A Hands-On Introduction to Breaking In](https://github.com/Kalyan-Deva/Hacking-Bug-Bounty-Books/blob/main/ethical-hacking-a-hands-on-introduction-to-breaking-in-1718501870-9781718501874.pdf)
 - [ ] Malware Reverse Engineering
