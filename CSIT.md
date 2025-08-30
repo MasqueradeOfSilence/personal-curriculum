@@ -103,6 +103,7 @@
     - [SQL Server](https://www.coursera.org/professional-certificates/microsoft-sql-server)
 - [ ] Languages and Compilers
     - [Crafting Interpreters](https://teachyourselfcs.com/#languages)
+    - [Other languages: Rust](https://www.rust-lang.org/learn)
 - [ ] Distributed Systems
     - [Distributed Systems](https://teachyourselfcs.com/#distributed-systems)
 - [ ] Quality Assurance
