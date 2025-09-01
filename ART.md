@@ -36,7 +36,7 @@
 - [ ] [Mastering Manga](https://archive.org/details/isbn_9781440309311)
 - [ ] [Paleoart](https://www.amazon.com/Palaeoartists-Handbook-Recreating-Prehistoric-Animals/dp/1785004611)
 - [ ] [Loish Digital Art School](https://loish.school/)
-- [ ] [Anatomy Drawing](https://archive.org/details/isbn_9781440309311)
+- [ ] [Anatomy Drawing Class with Rockhe Kim](https://superanius.com/products/anatomy-drawing-class-by-rockhe-kim-for-beginners-english-ver)
 - [ ] [The Animator's Survival Kit](https://archive.org/details/TheAnimatorsSurvivalKitRichardWilliams)
 - [ ] [2D Animation](https://guineapigparkour.itch.io/learning-2d-animation-the-absolute-beginners-entry)
 - [ ] [Drawing Basics and Video Game Art](https://archive.org/details/drawingbasicsvid0000sola)
