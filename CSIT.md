@@ -80,6 +80,7 @@
     - [Full Stack Open](https://fullstackopen.com/en/)
     - [React](https://scrimba.com/learn-react-c0e)
     - [Flexbox Froggy](https://flexboxfroggy.com/)
+    - [Mongo](https://learn.mongodb.com/)
 - [ ] Algorithm Analysis
     - [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
 - [ ] Computer Ecosystems
