@@ -22,7 +22,6 @@
     - [CompTIA ITF+ Training Course](https://www.youtube.com/playlist?list=PLc6zqGSJMvCSQ3djLlfS_2LnliS-Q-FKV)
     - [ITF+ Study Guide by Quentin Docter](https://www.goodreads.com/book/show/41447230-comptia-it-fundamentals-itf-study-guide)
     - [ITF+ Study Guide](https://www.amazon.com/CompTIA-Fundamentals-Guide-Second-FC0-U61/dp/1260441873/ref=bmx_dp_t2bb04an_d_sccl_2_2/144-6091275-2237151?pd_rd_w=iO4eq&content-id=amzn1.sym.43dd9979-c547-4d63-9aca-cb4cebe845a6&pf_rd_p=43dd9979-c547-4d63-9aca-cb4cebe845a6&pf_rd_r=Y8RFP9FCYZPSKFKE1SVR&pd_rd_wg=9jYyx&pd_rd_r=e2459b7a-726a-443e-beae-666cf80b34d7&pd_rd_i=1260441873&psc=1)
-    - [ITProTV: ITF+](https://www.youtube.com/watch?v=hZrxGOuCWsI&list=PLc6zqGSJMvCSQ3djLlfS_2LnliS-Q-FKV)
 - [ ] Computer Hardware 1
     - [CompTIA A+](https://www.comptia.org/certifications/a)
     - [Professor Messer A+ Part 1](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/)
