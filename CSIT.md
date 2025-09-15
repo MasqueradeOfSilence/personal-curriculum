@@ -53,6 +53,7 @@
     - [Structure and Interpretation of Computer Programs](https://teachyourselfcs.com/#programming)
     - [C++ as listed at the top](https://www.learncpp.com/) 
     - [CMake](https://cmake.org/getting-started/)
+    - [gcc, make, cmake](https://github.com/MizuhoAOKI/cmake_tutorial)
 - [ ] Data Structures and Algorithms
     - [UCSD: Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
 - [ ] Mathematics for Computer Science
@@ -87,6 +88,7 @@
     - [The Missing Semester](https://missing.csail.mit.edu/)
     - [Think Like a Git](https://think-like-a-git.net/)
     - [Diagrams with mermaidjs](https://mermaid.js.org/ecosystem/tutorials.html)
+    - [PowerShell in a month of lunches](https://gist.github.com/arthurl/620206230b766c308493a2d402693fe9)
 - [ ] Culture and History of Computers
     - [How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
     - [Usenet](https://www.harley.com/usenet/)
@@ -121,6 +123,7 @@
     - [Functional Programming](https://haskell.mooc.fi/)
     - [Qt](https://wiki.qt.io/Qt_for_Beginners)
     - [Coding Interviews](http://repo.darmajaya.ac.id/4188/1/Cracking%20the%20Coding%20Interview_%20189%20Programming%20Questions%20and%20Solutions%20%28%20PDFDrive%20%29.pdf)
+    - [System Design Interviews](https://interviewing.io/guides/system-design-interview)
     - [How npm works](https://npm.github.io/how-npm-works-docs/index.html)
     - [How gradle works](https://docs.gradle.org/current/userguide/gradle_basics.html)
     - other tooling as desired. I feel that there's a gap in building understanding of how these build tools work in a lot of programs.
