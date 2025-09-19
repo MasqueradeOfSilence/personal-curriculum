@@ -178,6 +178,7 @@
     - [Linux Basics for Hackers](https://kea.nu/files/textbooks/humblesec/linuxbasicsforhackers.pdf)
 - [ ] Homelabs
     - [Homelabbing](https://www.learntohomelab.com/homelabseries/EP0_startguide/)
+    - [Homelab Course](https://www.udemy.com/course/homelab101)
 - [ ] ICS Security
     - [ICS Cybersecurity](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/)
 
