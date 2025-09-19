@@ -15,13 +15,13 @@
     - [Computer Applications: Excel](https://www.homeandlearn.co.uk/excel2007/Excel2007.html)
     - [Excel VBA](https://www.homeandlearn.co.uk/NET/excel_vba.html)
     - [Learning to Build a PC (Also covered in Google IT Support)](https://www.pcmag.com/how-to/how-to-build-a-pc-the-ultimate-beginners-guide)
+    - [Building a PC in 2025](https://www.udemy.com/course/computer-building/)
 - [ ] Introduction to IT
     - [Getting started in IT (Network Chuck)](https://www.youtube.com/watch?v=5xWnmUEi1Qw)
     - [Dell Technical Support Certificate](https://www.coursera.org/professional-certificates/dell-technologies-technical-customer-support-specialist)
     - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
-    - [CompTIA ITF+ Training Course](https://www.youtube.com/playlist?list=PLc6zqGSJMvCSQ3djLlfS_2LnliS-Q-FKV)
-    - [ITF+ Study Guide by Quentin Docter](https://www.goodreads.com/book/show/41447230-comptia-it-fundamentals-itf-study-guide)
-    - [ITF+ Study Guide](https://www.amazon.com/CompTIA-Fundamentals-Guide-Second-FC0-U61/dp/1260441873/ref=bmx_dp_t2bb04an_d_sccl_2_2/144-6091275-2237151?pd_rd_w=iO4eq&content-id=amzn1.sym.43dd9979-c547-4d63-9aca-cb4cebe845a6&pf_rd_p=43dd9979-c547-4d63-9aca-cb4cebe845a6&pf_rd_r=Y8RFP9FCYZPSKFKE1SVR&pd_rd_wg=9jYyx&pd_rd_r=e2459b7a-726a-443e-beae-666cf80b34d7&pd_rd_i=1260441873&psc=1)
+    - [Tech+ Course: Jason Dion](udemy.com/course/comptia-tech-fc0-u71-complete-course-exam/learn/quiz/6319162)
+    - [Computer Maintenance](https://www.udemy.com/course/master-your-computer-hardware)
 - [ ] Computer Hardware 1
     - [CompTIA A+](https://www.comptia.org/certifications/a)
     - [Professor Messer A+ Part 1](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/)
