@@ -104,6 +104,7 @@
 - [ ] Databases 
     - [Database Concepts](https://teachyourselfcs.com/#databases)
     - [SQL Server](https://www.coursera.org/professional-certificates/microsoft-sql-server)
+    - [Oracle](https://www.coursera.org/specializations/oracle-sql-databases)
 - [ ] Languages and Compilers
     - [Crafting Interpreters](https://teachyourselfcs.com/#languages)
     - [Other languages: Rust](https://www.rust-lang.org/learn)
