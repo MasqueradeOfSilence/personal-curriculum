@@ -103,6 +103,7 @@
     - [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
     - [Requirements Engineering](https://www.coursera.org/specializations/requirements-engineering-secure-software)
 - [ ] Databases 
+    - [Learn SQL: SQLBolt](https://sqlbolt.com/)
     - [Database Concepts](https://teachyourselfcs.com/#databases)
     - [SQL Server](https://www.coursera.org/professional-certificates/microsoft-sql-server)
     - [Oracle](https://www.coursera.org/specializations/oracle-sql-databases)
@@ -114,13 +115,15 @@
 - [ ] Quality Assurance
     - [Google IT Automation](https://www.coursera.org/professional-certificates/google-it-automation)
     - [The Complete QA Course](https://www.udemy.com/course/the-complete-quality-assurance/?srsltid=AfmBOoriQoE4pay3AMy9_blp_v93wybD8LBQqpUN_YlvQKvn3EtynoJ1&couponCode=MT130825A)
+- [ ] Data Engineering
+    - [Fundamentals of Data Engineering](https://soclibrary.futa.edu.ng/books/Fundamentals%20of%20Data%20Engineering%20(Reis,%20JoeHousley,%20Matt)%20(Z-Library).pdf)
+    - [Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 - [ ] Software Engineering II
     - [Full-Stack Development](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_ibm-full-stack-cloud-developer_ibm_ftcof_professional-certificates_px_dr_bau_gg_sem_pr-bd_us-ca_en_m_hyb_23-05_x&campaignid=20192678307&adgroupid=165347497625&device=c&keyword=ibm%20full%20stack%20developer&matchtype=b&network=g&devicemodel=&creativeid=708826974602&assetgroupid=&targetid=kwd-909588696682&extensionid=&placement=&gad_source=1&gad_campaignid=20192678307&gbraid=0AAAAADdKX6bAsCYRg1pWD3t--UwzXGhel&gclid=CjwKCAjwkvbEBhApEiwAKUz6-06OW5NfA-OQNGljFqbOwMAP30p1pdQdIaED5B-dlmARpeJm6UU5fxoC8wgQAvD_BwE)
     - [Backend Development](https://www.coursera.org/professional-certificates/ibm-backend-development)
     - [Frontend Development](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
     - [DevOps and Software Engineering](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
     - [Clean Code](https://github.com/Gatjuat-Wicteat-Riek/clean-code-book)
-    - [Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer)
     - [GoLang](https://www.coursera.org/specializations/google-golang)
     - [Functional Programming](https://haskell.mooc.fi/)
     - [Qt](https://wiki.qt.io/Qt_for_Beginners)
