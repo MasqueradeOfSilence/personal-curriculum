@@ -4,6 +4,7 @@
 - [Clarinet](https://jennyclarinet.com/)
 - [Piano](https://www.alfred.com/alfreds-adult-piano-courses/b/?srsltid=AfmBOoreDj81n3fQQ-andKXZScSKmF8rMcriWHLXg8QM2ihAzUdekWWE)
 - [Music Composition on the Computer](https://www.off-the-beat.com/how-to-start-making-music-on-your-computer/)
+- [FL Studio](https://www.image-line.com/fl-studio-learning)
 - [Music Production](https://www.coursera.org/specializations/music-production)
 - [Writing Songs](https://www.coursera.org/specializations/songwriting)
 - [Game Music: On CSIT](CSIT.md)

@@ -71,6 +71,7 @@
     - [Apple Developer Training](https://training.apple.com/appdeveloper)
     - [Kotlin](https://developer.android.com/kotlin/campaign/learn)
     - [Flutter/Dart](https://flutter.dev/learn)
+    - [C++ In Depth: resources from the author himself](https://www.stroustrup.com/)
 - [ ] Computational Theory
     - [The Complete Theory of Computation](https://www.udemy.com/course/the-complete-theory-of-computation/?srsltid=AfmBOoqGKthwo79YaHlwhEL6Uig3DcM2RcEszNL5DSgt05KccYQncyO0&couponCode=PMNVD1525)
     - Skipping computational theory is for chumps.
@@ -149,6 +150,7 @@
 - [ ] Intro to ML
     - [Intro to ML](https://github.com/Microsoft/ML-for-Beginners)
 - [ ] Intro Deep Learning
+    - [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)
     - [Fast.ai](https://www.fast.ai/)
     - [DeepLearning.ai](https://www.deeplearning.ai/)
         1. Mathematics for Machine Learning and Data Science
@@ -182,6 +184,8 @@
     - [Homelab Course](https://www.udemy.com/course/homelab101)
 - [ ] ICS Security
     - [ICS Cybersecurity](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/)
+- [ ] Cryptography
+    - [All resources here, including the other authors linked](https://gotchas.salusa.dev/GettingStarted.html)
 
 
 # Computer Graphics
@@ -212,12 +216,13 @@
 - [ ] Technical Art
     - [Math for Technical Artists (book series)](https://jettelly.com/bundles/bundle-usb-ve1-ve2)
     - [Ben Cloward: Recommendations](https://www.bencloward.com/resources_books.shtml)
-- [ ] Simulation
+- [ ] Simulation and Physics Programming
     - [Simulation and Modeling of Natural Processes](https://www.coursera.org/learn/modeling-simulation-natural-processes)
     - [Fluid Flow for the Rest of Us (Marker and Cell Approach)](https://cgweb.informatik.uni-freiburg.de/intern/seminar/gridFluids_fluid_flow_for_the_rest_of_us.pdf)
     - [Fluid Simulation for Computer Graphics -- need to find full PDF; this is only partial](https://api.pageplace.de/preview/DT0400.9781482232844_A35196471/preview-9781482232844_A35196471.pdf)
     - [Fluid Simulation](https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf)
     - [Physics-Based Animation](https://www.amazon.com/Physics-Based-Animation-Graphics-Erleben/dp/1584503807)
+    - [Physics Programming Resources Reddit thread](https://www.reddit.com/r/GraphicsProgramming/comments/1835gkv/physics_in_computer_graphics_resources_and_book/)
 - [ ] GPUs
     - [GPU Programming: Intro](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
     - [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)
@@ -301,6 +306,8 @@
     - [Susan Rigetti: Math](https://www.susanrigetti.com/math)
     - [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers)
     - [Book of Proof](https://richardhammack.github.io/BookOfProof/)
+    - [How to Prove It: A Structured Approach](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
+    - [Illustrated Linear Algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 - [ ] Statistics
     - [Intro to Statistics](https://www.coursera.org/learn/stanford-statistics)
 - [ ] MATLAB 

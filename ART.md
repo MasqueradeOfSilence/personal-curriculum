@@ -34,6 +34,7 @@
 - [ ] [Bullstorm](https://www.bullstormacademy.com/) and [TL;DR](https://web.archive.org/web/20151101072040/http://hippie.nu/~unicorn/tut/xhtml/)
 - [ ] [Art Tutorial Mega List](https://docs.google.com/document/d/1OTqhtsRMR3I_tofdM7D0GqdBMcg9-7kLZ_9gbL9SFcA/edit?usp=drivesdk)
 - [ ] [Mastering Manga](https://archive.org/details/isbn_9781440309311)
+- [ ] [Digital Manga: Composition and Perspective](https://www.amazon.com/Digital-Manga-Composition-Perspective-Artists/dp/4805317922)
 - [ ] [Paleoart](https://www.amazon.com/Palaeoartists-Handbook-Recreating-Prehistoric-Animals/dp/1785004611)
 - [ ] [Loish Digital Art School](https://loish.school/)
 - [ ] [Anatomy Drawing Class with Rockhe Kim](https://superanius.com/products/anatomy-drawing-class-by-rockhe-kim-for-beginners-english-ver)
@@ -62,6 +63,7 @@
     - [Sheppard](https://dn790006.ca.archive.org/0/items/Anatomy-A_Complete_Guide_for_Artists_Joseph_Sheppard/Anatomy-A_Complete_Guide_for_Artists_Joseph_Sheppard.pdf)
     - [Hampton](https://cursoseorientacoes.com/wp-content/uploads/2014/09/michael-hampton-figure-drawing-design-and-invention-1.pdf)
     - [Vilppu](https://archive.org/details/Vilppu_Drawing_Manual.pdf)
+- [ ] [Capstone: Marc Brunet Art School](https://cubebrush.co/mb/products/0dpzeg/art-school)
 
 # 3D Art
 
