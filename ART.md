@@ -8,6 +8,10 @@
 - [Line of Action](https://line-of-action.com/)
 - Follow 50% rule for learning/projects
 
+## resources
+- [animal heads](https://x6ud.github.io/#/)
+- [human head, male](https://www.artstation.com/artwork/GX3Ax1)
+
 # Challenges and Tutorials to do
 
 - [Loish monthly challenges (must subscribe to Patreon)](https://loish.net/)

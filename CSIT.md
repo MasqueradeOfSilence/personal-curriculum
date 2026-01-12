@@ -97,6 +97,7 @@
 - [ ] Computer Networking 2
     - [Computer Networking: A Top-Down Approach](https://teachyourselfcs.com/#networking)
 - [ ] Systems Programming
+    - [Intro Linux](https://www.linuxfromscratch.org)
     - [Linux Systems Programming](https://www.udemy.com/course/linux-system-programming-f/?srsltid=AfmBOoohbfPWZiUqJ9XUm6m0jWCFmEENibPGXHnqBKbysQ5TZzN8okjR&couponCode=NVD20PMUS)
     - [Networking Concepts with Socket Programming](https://www.udemy.com/course/network-programming-from-scratch/?srsltid=AfmBOoojc2vsK0Dgmb1TmAIHfYQFVAcjuCCetNYoORjmOUftg7OZk7YC&couponCode=NVD20PMUS)
 - [ ] Software Design
@@ -144,6 +145,7 @@
     - [IBM Quantum Platform](https://quantum.cloud.ibm.com/learning/en)
 - [ ] Research
     - [LaTeX](https://www.learnlatex.org/en/)
+    - [more latex](https://github.com/BenjaminGor/Latex_Notes_Tutorial)
     - [reading technical papers](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
 
 # AI/ML/Deep Learning
@@ -188,10 +190,15 @@
 - [ ] ICS Security
     - [ICS Cybersecurity](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/)
 - [ ] Cryptography
+    - [Crypto 101](https://www.crypto101.io/)
     - [All resources here, including the other authors linked](https://gotchas.salusa.dev/GettingStarted.html)
 
 
 # Computer Graphics
+- [ ] Intro Creative Computing 
+    - Shaders
+    - P5.js
+    - [WebGPU](https://reze.one/tutorial)
 - [ ] 2D Computer Graphics
     - [Brushstroke Algorithms](https://jcgt.org/published/0007/01/01/paper.pdf)
     - [Non-Photorealistic Rendering](https://www.amazon.ca/Non-Photorealistic-Rendering-Bruce-Gooch/dp/1568811330)
@@ -201,9 +208,15 @@
     - [Learn OpenGL](https://learnopengl.com/)
     - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
     - [Graphics CodeX](https://graphicscodex.com/)
+    - [Game Math](https://gamemath.com/)
 - [ ] Real-Time Rendering
     - [Real-Time Rendering](https://www.realtimerendering.com/)
     - [Real-Time Rendering: Computer Graphics with Control Engineering](https://www.amazon.com/Real-Time-Rendering-Computer-Engineering-Automation/dp/1466583592)
+- [ ] Graphics II
+    - [PBR](https://learndownload.adobe.com/pub/learn/substance-3d-designer/the-pbr-guide.pdf)
+    - [PBR again](https://pbrt.org/)
+    - [Math for Graphics](https://theswissbay.ch/pdf/Gentoomen%20Library/Game%20Development/Programming/Mathematics%20for%20Computer%20Graphics.pdf)
+    - [VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415)
 - [ ] Shaders
     - [Intro](https://code.tutsplus.com/a-beginners-guide-to-coding-graphics-shaders--cms-23313t)
     - [Book of Shaders](https://thebookofshaders.com/)
@@ -250,6 +263,8 @@
 - [ ] Esports
     - [Esports Management and Game Development](https://www.edx.org/certificates/professional-certificate/hp-esports-management-and-game-development)
     - [UCI Esports](https://www.coursera.org/specializations/esports)
+- resources
+    - [virtual meetup](https://m.youtube.com/@graphicsprogrammingvirtual9971/videos)
 
 
 # UI/UX
@@ -265,6 +280,7 @@
     - [OpGuides: Engineering](https://opguides.info/)
 - [ ] Electrical Engineering
     - [Intro EE](https://www.edx.org/learn/engineering/institute-of-science-tokyo-introduction-to-electrical-and-electronic-engineering-dian-qi-dian-zi-gong-xue-ru-men)
+    - [Electronics for Dummies](https://www.dummies.com/book/technology/electronics/general-electronics/electronics-for-dummies-3rd-edition-281695/)
     - [Step by Step Electrical Engineering](https://www.amazon.com/Step-Step-Electrical-Engineering-Enthusiasts/dp/B0DJD31ZZX)
     - [Khan: EE](https://www.khanacademy.org/science/electrical-engineering)
     - [OSEE](https://github.com/Artoriuz/OSEE)
@@ -296,6 +312,7 @@
     - [Intro TPED](https://www.udemy.com/course/theme-park-design/?srsltid=AfmBOookHgmGQXz9jSN6CvyHd1-PunwJhuOPAbQjTvzoezOJ8uFRkGBs)
     - [Imagineering](https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box)
     - [The Art](https://www.amazon.com/Theme-Park-Design-Themed-Entertainment/dp/0993578918)
+    - [history](https://www.amazon.com/dp/0316416487/ref=cm_sw_r_sms_c_api_i_7qQtEbM5WTPT1)
     - [Coasters 101](https://www.amazon.com/Coasters-101-Engineers-Roller-Coaster/dp/1468013556)
     - [Management](https://www.edx.org/masters/micromasters/hkpolyux-international-hospitality-management)
 
@@ -313,6 +330,8 @@
     - [Illustrated Linear Algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 - [ ] Statistics
     - [Intro to Statistics](https://www.coursera.org/learn/stanford-statistics)
+- [ ] Simulation Engineering
+    - [sim](https://www.edx.org/learn/engineering/cornell-university-a-hands-on-introduction-to-engineering-simulations)
 - [ ] MATLAB 
     - [MATLAB Programming](https://www.coursera.org/specializations/matlab-programming-engineers-scientists)
 
