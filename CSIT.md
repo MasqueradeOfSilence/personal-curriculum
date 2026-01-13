@@ -246,6 +246,7 @@
 - [ ] 3D Applications
     - [Book of USD](https://remedy-entertainment.github.io/USDBook/)
     - [Blender Development](https://developer.blender.org/)
+    - [Imgui](https://blog.conan.io/2019/06/26/An-introduction-to-the-Dear-ImGui-library.html)
 
 # Game Design and Development
 - [ ] Intro to Game Design
