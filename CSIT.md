@@ -335,6 +335,8 @@
     - [Intro to Statistics](https://www.coursera.org/learn/stanford-statistics)
 - [ ] Simulation Engineering
     - [sim](https://www.edx.org/learn/engineering/cornell-university-a-hands-on-introduction-to-engineering-simulations)
+- [ ] CFD
+    - [cfd](https://jahid-hasan.com/writings/a-complete-learning-path-for-cfd/)
 - [ ] MATLAB 
     - [MATLAB Programming](https://www.coursera.org/specializations/matlab-programming-engineers-scientists)
 
