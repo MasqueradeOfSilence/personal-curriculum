@@ -8,6 +8,7 @@
 - [C++](https://www.learncpp.com/) 
 - [Leetcode](https://leetcode.com/problems/)
     - [Neetcode 150](https://neetcode.io/)
+    - [System Design](https://github.com/karanpratapsingh/system-design)
 
 # Core IT 
 - [ ] Introduction to Computers and Computer Applications
@@ -129,6 +130,7 @@
     - [Functional Programming](https://haskell.mooc.fi/)
     - [Qt](https://wiki.qt.io/Qt_for_Beginners)
     - [Coding Interviews](http://repo.darmajaya.ac.id/4188/1/Cracking%20the%20Coding%20Interview_%20189%20Programming%20Questions%20and%20Solutions%20%28%20PDFDrive%20%29.pdf)
+    - [System Design](https://github.com/karanpratapsingh/system-design)
     - [System Design Interviews](https://interviewing.io/guides/system-design-interview)
     - [How npm works](https://npm.github.io/how-npm-works-docs/index.html)
     - [How gradle works](https://docs.gradle.org/current/userguide/gradle_basics.html)
