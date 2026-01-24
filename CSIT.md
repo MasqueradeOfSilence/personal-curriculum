@@ -81,7 +81,8 @@
     - [W3Schools](https://www.w3schools.com/where_to_start.asp)
     - [The Odin Project](https://www.theodinproject.com/)
     - [Full Stack Open](https://fullstackopen.com/en/)
-    - [React](https://scrimba.com/learn-react-c0e)
+    - [React 1](https://react.dev/learn)
+    - [React 2](https://scrimba.com/learn-react-c0e)
     - [Flexbox Froggy](https://flexboxfroggy.com/)
     - [Mongo](https://learn.mongodb.com/)
 - [ ] Algorithm Analysis
