@@ -10,6 +10,7 @@
 - [Leetcode](https://leetcode.com/problems/)
     - [Neetcode 150](https://neetcode.io/)
     - [System Design](https://github.com/karanpratapsingh/system-design)
+    - HackerRank
 
 # Core IT 
 - [ ] Introduction to Computers and Computer Applications
