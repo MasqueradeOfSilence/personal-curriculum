@@ -1,7 +1,7 @@
 # Warm-up Tools and Sequence
 
 - Browse Art (Cara, Inkblot, Patreon)
-- [Inkwell App](https://www.inkwell.studio/)
+- [Inkwell App](https://www.inkwell.studio/) - 5 minutes per day, digital painting warmup
 - [Drawabox](https://drawabox.com/)
 - [Posemaniacs](https://www.posemaniacs.com/)
 - [Quickposes](https://quickposes.com/en)
