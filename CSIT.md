@@ -87,6 +87,9 @@
     - [React 2](https://scrimba.com/learn-react-c0e)
     - [Flexbox Froggy](https://flexboxfroggy.com/)
     - [Mongo](https://learn.mongodb.com/)
+    - [Angular](https://angular.dev/tutorials/first-app)
+    - [RxJS](https://codechips.me/rxjs-beginner-learning-resources/)
+    - [JavaScript Concepts](https://33jsconcepts.com/)
 - [ ] Algorithm Analysis
     - [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
 - [ ] Computer Ecosystems
@@ -135,6 +138,7 @@
     - [Coding Interviews](http://repo.darmajaya.ac.id/4188/1/Cracking%20the%20Coding%20Interview_%20189%20Programming%20Questions%20and%20Solutions%20%28%20PDFDrive%20%29.pdf)
     - [System Design](https://github.com/karanpratapsingh/system-design)
     - [System Design Interviews](https://interviewing.io/guides/system-design-interview)
+    - [Frontend Interviews: FrontendLead Handbook](https://frontendlead.com/handbook/introduction)
     - [How npm works](https://npm.github.io/how-npm-works-docs/index.html)
     - [How gradle works](https://docs.gradle.org/current/userguide/gradle_basics.html)
     - other tooling as desired. I feel that there's a gap in building understanding of how these build tools work in a lot of programs.
