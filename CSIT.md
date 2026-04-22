@@ -81,6 +81,7 @@
     - Skipping computational theory is for chumps.
 - [ ] Web Design and Development
     - [HTML and CSS Guide: The Cave of Dragonflies](https://www.dragonflycave.com/html-guide)
+    - [In-Depth CSS](https://web.dev/learn/css)
     - [W3Schools](https://www.w3schools.com/where_to_start.asp)
     - [The Odin Project](https://www.theodinproject.com/)
     - [Full Stack Open](https://fullstackopen.com/en/)
