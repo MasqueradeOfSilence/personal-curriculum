@@ -12,6 +12,7 @@
     - [System Design](https://github.com/karanpratapsingh/system-design)
     - HackerRank
     - Codolio
+- Shader Academy
 
 # Core IT 
 - [ ] Introduction to Computers and Computer Applications
