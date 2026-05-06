@@ -8,11 +8,12 @@
 - [Terminal Commands / Linux (OverTheWire)](https://overthewire.org/wargames/bandit/)
 - [C++](https://www.learncpp.com/) 
 - [Leetcode](https://leetcode.com/problems/)
+    - Codewars
     - [Neetcode 150](https://neetcode.io/)
-    - [System Design](https://github.com/karanpratapsingh/system-design)
     - HackerRank
     - Codolio
-- Shader Academy
+- [System Design](https://github.com/karanpratapsingh/system-design)
+- [Shader Academy](https://shaderacademy.com/explore)
 
 # Core IT 
 - [ ] Introduction to Computers and Computer Applications
