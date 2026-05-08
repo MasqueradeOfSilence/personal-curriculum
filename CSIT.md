@@ -25,7 +25,6 @@
     - [Building a PC in 2025](https://www.udemy.com/course/computer-building/)
 - [ ] Introduction to IT
     - [Getting started in IT (Network Chuck)](https://www.youtube.com/watch?v=5xWnmUEi1Qw)
-    - [Dell Technical Support Certificate](https://www.coursera.org/professional-certificates/dell-technologies-technical-customer-support-specialist)
     - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
     - [Tech+ Course: Jason Dion](udemy.com/course/comptia-tech-fc0-u71-complete-course-exam/learn/quiz/6319162)
     - [Computer Maintenance](https://www.udemy.com/course/master-your-computer-hardware)
