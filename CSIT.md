@@ -15,6 +15,7 @@
     - Codolio
 - [System Design](https://github.com/karanpratapsingh/system-design)
 - [Shader Academy](https://shaderacademy.com/explore)
+- GDevelop
 
 # Core IT 
 - [ ] Introduction to Computers and Computer Applications
