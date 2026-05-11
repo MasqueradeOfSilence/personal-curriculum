@@ -117,6 +117,7 @@
     - [Requirements Engineering](https://www.coursera.org/specializations/requirements-engineering-secure-software)
 - [ ] Databases 
     - [Learn SQL: SQLBolt](https://sqlbolt.com/)
+    - [DataLemur: SQL](https://datalemur.com/sql-tutorial)
     - [Database Concepts](https://teachyourselfcs.com/#databases)
     - [SQL Server](https://www.coursera.org/professional-certificates/microsoft-sql-server)
     - [Oracle](https://www.coursera.org/specializations/oracle-sql-databases)
