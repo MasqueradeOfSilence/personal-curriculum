@@ -1,7 +1,7 @@
 # Things to study daily
 - [Encode](https://learnencode.com) for baseline warmups 
 - [Matiks: Math Puzzles](https://www.matiks.in/): Mental math sprints and puzzles
-- Ethical Hacking University App (Security warm-ups, news): [Apple](https://apps.apple.com/tz/app/ethical-hacking-university-app/id1614989976) | [Google Play](https://play.google.com/store/apps/details?id=com.askills.edu.ethical.hacking.university&hl=en_US)
+- Ethical Hacking University App (Security warm-ups, news): [Apple](https://apps.apple.com/tz/app/ethical-hacking-university-app/id1614989976) | [Google Play](https://play.google.com/store/apps/details?id=com.askills.edu.ethical.hacking.university&hl=en_US) (Note: news section is rarely updated)
 - [Programiz C++ App](https://www.programiz.com/learn-cpp)
 - [C++ Exercises on Mobile - Apple](https://apps.apple.com/us/app/learn-c-programming/id1196440615) | 
 - [Data Structures and Algorithms: Programiz](https://www.programiz.com/dsa/getting-started)
