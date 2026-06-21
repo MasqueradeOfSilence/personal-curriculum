@@ -216,6 +216,7 @@
     - P5.js
     - [WebGPU](https://reze.one/tutorial)
 - [ ] 2D Computer Graphics
+    - Processing (text tutorials, not videos recommended, videos too slow)
     - [Brushstroke Algorithms](https://jcgt.org/published/0007/01/01/paper.pdf)
     - [Non-Photorealistic Rendering](https://www.amazon.ca/Non-Photorealistic-Rendering-Bruce-Gooch/dp/1568811330)
     - [Intro to Hacking Krita](https://docs.krita.org/en/untranslatable_pages/intro_hacking_krita.html)
