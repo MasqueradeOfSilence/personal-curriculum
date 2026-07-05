@@ -102,6 +102,7 @@
     - [Think Like a Git](https://think-like-a-git.net/)
     - [Diagrams with mermaidjs](https://mermaid.js.org/ecosystem/tutorials.html)
     - [PowerShell in a month of lunches](https://gist.github.com/arthurl/620206230b766c308493a2d402693fe9)
+    - [Code Yourself a Git](https://wyag.thb.lt)
 - [ ] Culture and History of Computers
     - [How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
     - [Usenet](https://www.harley.com/usenet/)
